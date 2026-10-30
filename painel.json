@@ -1,7 +1,7 @@
 {
  "versao": "painel-v1",
- "gerado_em": "2026-10-30T14:54:16-03:00",
- "janela_desde": "2026-10-29T14:54:16-03:00",
+ "gerado_em": "2026-10-30T15:07:32-03:00",
+ "janela_desde": "2026-10-29T15:07:32-03:00",
  "pregao": {
   "data": "2026-10-29",
   "anterior": "2026-10-28",
@@ -170,6 +170,14 @@
  ],
  "manchetes": [
   {
+   "titulo": "Com pós-eleição, XP revela onde prefere investir em fundos imobiliários",
+   "fonte": "InfoMoney",
+   "fonte_url": "https://www.infomoney.com.br/",
+   "url": "https://www.infomoney.com.br/onde-investir/com-pos-eleicao-xp-revela-onde-prefere-investir-em-fundos-imobiliarios/",
+   "publicado_em": "2026-10-30T14:58-03:00",
+   "resumo": "House real estate graph price investment mortgage \" data-image-caption=\" Ilustração sobre o imposto residencial (Getty Images) \"…"
+  },
+  {
    "titulo": "FII ALZR11 vende imóvel locado à Coca-Cola FEMSA por R$ 140 mi; veja lucro estimado",
    "fonte": "InfoMoney",
    "fonte_url": "https://www.infomoney.com.br/",
@@ -240,14 +248,6 @@
    "url": "https://www.fundsexplorer.com.br/noticias/ifix-cai-06-e-fecha-quinta-feira-aos-3-632-pontos",
    "publicado_em": "2026-10-29T20:00-03:00",
    "resumo": "O IFIX encerrou o pregão desta quinta-feira (29) aos 3.632,26 pontos, queda de 0,6% no dia, o que representa recuo de 21,83 pontos frente ao fechamento…"
-  },
-  {
-   "titulo": "Fiagro mais popular do Brasil revela carteira e dividendos",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/vgia11-carteira-cras-dividendos",
-   "publicado_em": "2026-10-29T16:00-03:00",
-   "resumo": "O Fiagro VGIA11 mantém uma carteira focada em crédito do agronegócio, com predominância de Certificados de Recebíveis do Agronegócio, os CRAs. Em agosto de…"
   }
  ],
  "destaques": [
@@ -2317,6 +2317,7 @@
    "analise_url": "https://www.analisandofiis.com.br/2026/10/zavi11-dy-de-1472-aa-e-dois.html"
   }
  },
+ "giro_url": null,
  "banners_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners",
  "fontes": {
   "proventos": "FNET (B3/CVM)",
