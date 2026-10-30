@@ -1,7 +1,7 @@
 {
  "versao": "painel-v1",
- "gerado_em": "2026-10-30T12:01:38-03:00",
- "janela_desde": "2026-10-29T12:01:38-03:00",
+ "gerado_em": "2026-10-30T14:54:16-03:00",
+ "janela_desde": "2026-10-29T14:54:16-03:00",
  "pregao": {
   "data": "2026-10-29",
   "anterior": "2026-10-28",
@@ -170,6 +170,46 @@
  ],
  "manchetes": [
   {
+   "titulo": "FII ALZR11 vende imóvel locado à Coca-Cola FEMSA por R$ 140 mi; veja lucro estimado",
+   "fonte": "InfoMoney",
+   "fonte_url": "https://www.infomoney.com.br/",
+   "url": "https://www.infomoney.com.br/onde-investir/fii-alzr11-vende-imovel-locado-a-coca-cola-femsa-por-r-140-mi-veja-lucro-estimado/",
+   "publicado_em": "2026-10-30T14:33-03:00",
+   "resumo": "A operação representa um lucro extraordinário estimado em R$ 17,3 milhões para o fundo. The post FII ALZR11 vende imóvel locado à Coca-Cola FEMSA por R$ 140…"
+  },
+  {
+   "titulo": "ALZR11 terá lucro extraordinário de R$ 17 milhões com venda; confira",
+   "fonte": "Suno Notícias",
+   "fonte_url": "https://www.suno.com.br/noticias/",
+   "url": "https://www.suno.com.br/noticias/alzr11-venda-galpao-coca-cola/",
+   "publicado_em": "2026-10-30T14:21-03:00",
+   "resumo": "ALZR11 terá lucro extraordinário de R$ 17 milhões com venda; confiraO ALZR11 fechou a venda de um galpão em Santo André (SP) para a Coca-Cola FEMSA, atual…"
+  },
+  {
+   "titulo": "VISC11 reduz dívida em 45% após negociar shoppings",
+   "fonte": "Funds Explorer",
+   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
+   "url": "https://www.fundsexplorer.com.br/noticias/visc11-reduz-divida-venda-shoppings",
+   "publicado_em": "2026-10-30T13:19-03:00",
+   "resumo": "O fundo imobiliário VISC11 fechou, em 27 de outubro de 2026, a venda de participações em sete shopping centers por R$ 477,4 milhões ao Tivio Opportunities II…"
+  },
+  {
+   "titulo": "Fundo imobiliário anuncia mudança de ticker na B3; veja novo código",
+   "fonte": "Money Times",
+   "fonte_url": "https://www.moneytimes.com.br/",
+   "url": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-mudanca-de-ticker-na-b3-veja-novo-codigo-igdl/",
+   "publicado_em": "2026-10-30T12:02-03:00",
+   "resumo": "O fundo imobiliário Rio Bravo Recebíveis (JPPA11) terá um novo código de negociação na B3 em novembro. As cotas passarão a ser negociadas sob o ticker RBIC11 a…"
+  },
+  {
+   "titulo": "RZAT11 registra queda no lucro, mas mantém dividendos altos",
+   "fonte": "Funds Explorer",
+   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
+   "url": "https://www.fundsexplorer.com.br/noticias/rzat11-yield-anual-carteira-atualizada",
+   "publicado_em": "2026-10-30T11:32-03:00",
+   "resumo": "O RZAT11 fechou setembro de 2026 com resultado de R$ 3,06 milhões, queda de 24,21% frente a agosto, segundo relatório gerencial divulgado pela gestão do fundo…"
+  },
+  {
    "titulo": "TVRI11 investe R$ 24 milhões em imóvel com locação até 2041",
    "fonte": "Suno Notícias",
    "fonte_url": "https://www.suno.com.br/noticias/",
@@ -202,52 +242,12 @@
    "resumo": "O IFIX encerrou o pregão desta quinta-feira (29) aos 3.632,26 pontos, queda de 0,6% no dia, o que representa recuo de 21,83 pontos frente ao fechamento…"
   },
   {
-   "titulo": "IFIX recua 0,6% e fecha aos 3.632 pontos, em quarto dia seguido de queda",
-   "fonte": "Suno Notícias",
-   "fonte_url": "https://www.suno.com.br/noticias/",
-   "url": "https://www.suno.com.br/noticias/ifix-recua-06-e-fecha-aos-3-632-pontos-em-quarto-dia-seguido-de-queda/",
-   "publicado_em": "2026-10-29T18:55-03:00",
-   "resumo": "O IFIX fechou o pregão desta quinta-feira (29) aos 3.632,26 pontos, em queda de 0,6%. O recuo corresponde a 21,83 pontos frente ao encerramento anterior, de…"
-  },
-  {
-   "titulo": "113 FIIs podem mudar de classificação com nova metodologia",
-   "fonte": "Suno Notícias",
-   "fonte_url": "https://www.suno.com.br/noticias/",
-   "url": "https://www.suno.com.br/noticias/113-fiis-podem-mudar-de-classificacao-com-nova-metodologia/",
-   "publicado_em": "2026-10-29T18:15-03:00",
-   "resumo": "Uma nova metodologia para classificar os fundos imobiliários brasileiros apontou que 113 dos 303 FIIs avaliados podem receber uma categoria diferente daquela…"
-  },
-  {
    "titulo": "Fiagro mais popular do Brasil revela carteira e dividendos",
    "fonte": "Funds Explorer",
    "fonte_url": "https://www.fundsexplorer.com.br/noticias",
    "url": "https://www.fundsexplorer.com.br/noticias/vgia11-carteira-cras-dividendos",
    "publicado_em": "2026-10-29T16:00-03:00",
    "resumo": "O Fiagro VGIA11 mantém uma carteira focada em crédito do agronegócio, com predominância de Certificados de Recebíveis do Agronegócio, os CRAs. Em agosto de…"
-  },
-  {
-   "titulo": "Fundo imobiliário garante grande locação em Alphaville; confira",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/rect11-renovacao-locacao-alphaville",
-   "publicado_em": "2026-10-29T14:00-03:00",
-   "resumo": "O fundo imobiliário RECT11 (RECT11) renovou a permanência de duas empresas no Condomínio Evolution Corporate, em Alphaville, Barueri (SP), por mais 36 meses. O…"
-  },
-  {
-   "titulo": "Fundo imobiliário distribui dividendos nesta quinta; confira",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/fundos-imobiliarios-bcia11-dividendos-quinta",
-   "publicado_em": "2026-10-29T11:45-03:00",
-   "resumo": "O fundo imobiliário BCIA11 vai pagar dividendos aos cotistas nesta quinta-feira, dia 29, no valor de R$ 0,86 por cota. O pagamento integra o calendário mensal…"
-  },
-  {
-   "titulo": "FII salta rendimentos e avança rumo à incorporação; veja",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/maxr11-dividendo-sobe-incorporacao",
-   "publicado_em": "2026-10-29T10:12-03:00",
-   "resumo": "O fundo imobiliário MAXR11 distribuiu R$ 0,40 por cota em setembro de 2026, alta de 37,9% frente ao mês anterior, enquanto avalia sua incorporação ao Capitânia…"
   }
  ],
  "destaques": [
@@ -256,7 +256,7 @@
    "url": "https://www.analisandofiis.com.br/2026/10/brco11-resultado-mercado-livre-e.html",
    "categoria": "Relatório gerencial",
    "data": "2026-10-04",
-   "banner_url": "banners/imobiliario.jpg",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/imobiliario.jpg",
    "ticker": "BRCO11"
   },
   {
@@ -264,7 +264,7 @@
    "url": "https://www.analisandofiis.com.br/2026/10/hlog11-resultado-imoveis-e-riscos.html",
    "categoria": "Relatório gerencial",
    "data": "2026-10-04",
-   "banner_url": "banners/imobiliario.jpg",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/imobiliario.jpg",
    "ticker": "HLOG11"
   },
   {
@@ -272,7 +272,7 @@
    "url": "https://www.analisandofiis.com.br/2026/10/rura11-resultado-pdd-e-carteira.html",
    "categoria": "Relatório gerencial",
    "data": "2026-10-04",
-   "banner_url": "banners/fiagro.jpg",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/fiagro.jpg",
    "ticker": "RURA11"
   },
   {
@@ -280,7 +280,7 @@
    "url": "https://www.analisandofiis.com.br/2026/10/cpts11-resultado-quase-dobra-com-ganho.html",
    "categoria": "Relatório gerencial",
    "data": "2026-10-02",
-   "banner_url": "banners/papel.jpg",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/papel.jpg",
    "ticker": "CPTS11"
   }
  ],
@@ -2077,13 +2077,6 @@
    "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
    "banner": "imobiliario",
-   "provento": {
-    "valor": 2.3116027,
-    "tipo": "rendimento",
-    "data_com": "2026-08-31",
-    "data_pagamento": "2026-09-15",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1305061"
-   },
    "relatorio": {
     "data_entrega": "2026-09-30",
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1335962",
@@ -2324,7 +2317,7 @@
    "analise_url": "https://www.analisandofiis.com.br/2026/10/zavi11-dy-de-1472-aa-e-dois.html"
   }
  },
- "banners_url": "banners",
+ "banners_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners",
  "fontes": {
   "proventos": "FNET (B3/CVM)",
   "relatorios": "FNET (B3/CVM)",
