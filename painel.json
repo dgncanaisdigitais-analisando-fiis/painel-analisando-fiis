@@ -1,7 +1,7 @@
 {
  "versao": "painel-v1",
- "gerado_em": "2026-11-03T06:51:06-03:00",
- "janela_desde": "2026-11-02T06:51:06-03:00",
+ "gerado_em": "2026-11-03T08:03:11-03:00",
+ "janela_desde": "2026-11-02T08:03:11-03:00",
  "pregao": {
   "data": "2026-10-30",
   "anterior": "2026-10-29",
@@ -85,7 +85,16 @@
  ],
  "proventos": [],
  "relatorios": [],
- "manchetes": [],
+ "manchetes": [
+  {
+   "titulo": "Fundo imobiliário suspende dividendos após calote de locatária; veja valores em atraso",
+   "fonte": "Money Times",
+   "fonte_url": "https://www.moneytimes.com.br/",
+   "url": "https://www.moneytimes.com.br/fundo-imobiliario-suspende-distribuicao-de-dividendos-apos-calote-de-locataria-igdl/",
+   "publicado_em": "2026-11-03T07:48-03:00",
+   "resumo": "O fundo imobiliário SP Downtown (SPTW11) anunciou, por meio de fato relevante, que não distribuirá rendimentos referentes a outubro de 2026 devido à…"
+  }
+ ],
  "destaques": [
   {
    "titulo": "HSAF11: R$ 0,95 por cota com resultado de R$ 0,88 e cota a R$ 77,00 | Relatório de setembro/2026",
