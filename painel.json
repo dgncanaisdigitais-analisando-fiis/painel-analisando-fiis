@@ -1,7 +1,7 @@
 {
  "versao": "painel-v1",
- "gerado_em": "2026-11-02T08:03:23-03:00",
- "janela_desde": "2026-10-30T08:03:23-03:00",
+ "gerado_em": "2026-11-03T06:47:36-03:00",
+ "janela_desde": "2026-11-02T06:47:36-03:00",
  "pregao": {
   "data": "2026-10-30",
   "anterior": "2026-10-29",
@@ -83,792 +83,41 @@
    "data_anterior": "2026-10-29"
   }
  ],
- "proventos": [
-  {
-   "ticker": "ZAVI11",
-   "tipo": "rendimento",
-   "valor": 0.11,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365416",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "ZAVC11",
-   "tipo": "rendimento",
-   "valor": 0.13,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364142",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "XPSF11",
-   "tipo": "rendimento",
-   "valor": 0.07,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364810",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "XPLG11",
-   "tipo": "rendimento",
-   "valor": 0.82,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364780",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "XPCI11",
-   "tipo": "rendimento",
-   "valor": 0.82,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364995",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "XPCA11",
-   "tipo": "rendimento",
-   "valor": 0.09,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365322",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "XLPR11",
-   "tipo": "rendimento",
-   "valor": 0.39042212,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364885",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "WPLZ11",
-   "tipo": "rendimento",
-   "valor": 0.37,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365688",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "WHGR11",
-   "tipo": "rendimento",
-   "valor": 0.1,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364114",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VSHO11",
-   "tipo": "rendimento",
-   "valor": 1.5,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-10",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365001",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VRTM11",
-   "tipo": "rendimento",
-   "valor": 0.09,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365328",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VRTA11",
-   "tipo": "rendimento",
-   "valor": 0.85,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365321",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VPSI11",
-   "tipo": "rendimento",
-   "valor": 0.253674,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-09",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364144",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VOTS11",
-   "tipo": "rendimento",
-   "valor": 1.2,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364868",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VJFD11",
-   "tipo": "rendimento",
-   "valor": 0.88,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364352",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VISC11",
-   "tipo": "rendimento",
-   "valor": 0.84,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365616",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VINO11",
-   "tipo": "rendimento",
-   "valor": 0.045,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366545",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VILG11",
-   "tipo": "rendimento",
-   "valor": 0.82,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365614",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VGRI11",
-   "tipo": "rendimento",
-   "valor": 0.075,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-09",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365432",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VGRH11",
-   "tipo": "rendimento",
-   "valor": 0.85,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365687",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VGHF11",
-   "tipo": "rendimento",
-   "valor": 0.05,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-09",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365431",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VCRR11",
-   "tipo": "rendimento",
-   "valor": 0.4,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365400",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VCRI11",
-   "tipo": "rendimento",
-   "valor": 0.09,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365613",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VCRA11",
-   "tipo": "rendimento",
-   "valor": 0.8,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365633",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "VCJR11",
-   "tipo": "rendimento",
-   "valor": 0.82,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365645",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "URPR11",
-   "tipo": "rendimento",
-   "valor": 0.3,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366057",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "URHF11",
-   "tipo": "rendimento",
-   "valor": 1.0,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365430",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TVRI11",
-   "tipo": "rendimento",
-   "valor": 1.05,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365749",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TRXY11",
-   "tipo": "rendimento",
-   "valor": 0.11,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364871",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TRXF11",
-   "tipo": "rendimento",
-   "valor": 0.93,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364874",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TRXB11",
-   "tipo": "rendimento",
-   "valor": 1.0,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364873",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TRBL11",
-   "tipo": "rendimento",
-   "valor": 0.44,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365395",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TMPS11",
-   "tipo": "rendimento",
-   "valor": 0.75,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-12",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365644",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TGAR11",
-   "tipo": "rendimento",
-   "valor": 0.46,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365774",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "TEPP11",
-   "tipo": "rendimento",
-   "valor": 0.068,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365014",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "SHPH11",
-   "tipo": "rendimento",
-   "valor": 4.5,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365618",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "SEED11",
-   "tipo": "rendimento",
-   "valor": 1.39,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365686",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "SAPI11",
-   "tipo": "rendimento",
-   "valor": 0.1,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365694",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RZTR11",
-   "tipo": "rendimento",
-   "valor": 0.85,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-09",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365846",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RZAG11",
-   "tipo": "rendimento",
-   "valor": 0.125,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365864",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RURA11",
-   "tipo": "rendimento",
-   "valor": 0.1,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-09",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365632",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RTEL16",
-   "tipo": "rendimento",
-   "valor": 0.1,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-10",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364939",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RTEL16",
-   "tipo": "amortizacao",
-   "valor": 0.33,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-10",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364939",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RSPD11",
-   "tipo": "amortizacao",
-   "valor": 40.26548376,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-12-18",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364800",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RRES11",
-   "tipo": "rendimento",
-   "valor": 0.17,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364105",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RPRI11",
-   "tipo": "rendimento",
-   "valor": 0.9,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365643",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RNGO11",
-   "tipo": "rendimento",
-   "valor": 0.52,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365728",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "REME11",
-   "tipo": "amortizacao",
-   "valor": 10.0,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364168",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RECD11",
-   "tipo": "rendimento",
-   "valor": 0.0675,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364870",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RCRB11",
-   "tipo": "rendimento",
-   "valor": 1.3,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365638",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBVA11",
-   "tipo": "rendimento",
-   "valor": 0.09,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365490",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBRS11",
-   "tipo": "rendimento",
-   "valor": 0.2,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365403",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBRL11",
-   "tipo": "rendimento",
-   "valor": 0.6,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365421",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBRI11",
-   "tipo": "amortizacao",
-   "valor": 21.48,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-12-07",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365013",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBRD11",
-   "tipo": "rendimento",
-   "valor": 0.58,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365429",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBOP11",
-   "tipo": "rendimento",
-   "valor": 1.45,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365700",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBIR11",
-   "tipo": "amortizacao",
-   "valor": 5.88768264,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-12-18",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364786",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBHY11",
-   "tipo": "rendimento",
-   "valor": 0.9,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365330",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBHG11",
-   "tipo": "rendimento",
-   "valor": 0.75,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-16",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364869",
-   "data_entrega": "2026-10-30"
-  },
-  {
-   "ticker": "RBFM11",
-   "tipo": "rendimento",
-   "valor": 0.108,
-   "data_com": "2026-10-30",
-   "data_pagamento": "2026-11-13",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365691",
-   "data_entrega": "2026-10-30"
-  }
- ],
- "relatorios": [
-  {
-   "ticker": "TJKB11",
-   "data_entrega": "2026-10-31",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366819",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "FLMA11",
-   "data_entrega": "2026-10-31",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366820",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "VJFD11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1363299",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "TGAR11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365779",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "RBHG11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366315",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "MCRE11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366154",
-   "competencia": "outubro/2026"
-  },
-  {
-   "ticker": "IAGR11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366235",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "HUCG11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364332",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "HREC11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366054",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "HCST11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366056",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "GZIT11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366139",
-   "competencia": "outubro/2026"
-  },
-  {
-   "ticker": "GGRC11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366052",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "GCRI11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366336",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "GCRA11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366544",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "GARE11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366160",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "FIIB11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364720",
-   "competencia": "setembro/2026",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/fiib11-vacancia-vai-728-e-acordo-adia-r.html"
-  },
-  {
-   "ticker": "FCFL11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366165",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "FATN11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366812",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "EURO11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364998",
-   "competencia": "setembro/2026",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/euro11-galpao-de-31-da-area-com-novo.html"
-  },
-  {
-   "ticker": "EQIR11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366338",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "DVFF11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366312",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "CPTS11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366529",
-   "competencia": "setembro/2026"
-  },
-  {
-   "ticker": "CLIN11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366587",
-   "competencia": "outubro/2026"
-  },
-  {
-   "ticker": "BTYU11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366590",
-   "competencia": "outubro/2026"
-  },
-  {
-   "ticker": "BTCI11",
-   "data_entrega": "2026-10-30",
-   "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366580",
-   "competencia": "outubro/2026"
-  }
- ],
- "manchetes": [
-  {
-   "titulo": "Fiagro da AZ Quest vai pagar dividendos esse mês? Veja o que disse a gestora",
-   "fonte": "Suno Notícias",
-   "fonte_url": "https://www.suno.com.br/noticias/",
-   "url": "https://www.suno.com.br/noticias/fiagro-az-quest-vai-pagar-dividendos-esse-mes-veja-o-que-disse-a-gestora/",
-   "publicado_em": "2026-10-30T20:56-03:00",
-   "resumo": "Fiagro da AZ Quest vai pagar dividendos esse mês? Veja o que disse a gestoraO fiagro AAZQ11 informou que não realizará a distribuição de rendimentos aos…"
-  },
-  {
-   "titulo": "KNCR11 arrecada R$ 459 milhões em nova emissão de cotas",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/kncr11-capta-milhoes-emissao-capta",
-   "publicado_em": "2026-10-30T17:24-03:00",
-   "resumo": "O fundo imobiliário de papel KNCR11 informou ao mercado, em comunicado de 27 de outubro de 2026, que já captou cerca de R$ 459,28 milhões na 13ª emissão de…"
-  },
-  {
-   "titulo": "TVRI11 compra imóvel comercial por R$ 24 mi e garante aluguel",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/tvri11-fii-locacao-ate-2041",
-   "publicado_em": "2026-10-30T15:14-03:00",
-   "resumo": "O fundo imobiliário TVRI11 concluiu a compra de um imóvel comercial na Barra da Tijuca, no Rio de Janeiro, por R$ 24 milhões, em operação formalizada por…"
-  },
-  {
-   "titulo": "Quais setores de fundos imobiliários podem ser mais resilientes?",
-   "fonte": "Suno Notícias",
-   "fonte_url": "https://www.suno.com.br/noticias/",
-   "url": "https://www.suno.com.br/noticias/quais-setores-de-fundos-imobiliarios-podem-ser-mais-resilientes/",
-   "publicado_em": "2026-10-30T15:07-03:00",
-   "resumo": "Quais setores de fundos imobiliários podem ser mais resilientes?Em meio à queda do mercado de fundos imobiliários, alguns segmentos podem apresentar maior…"
-  },
-  {
-   "titulo": "ALZR11 terá lucro extraordinário de R$ 17 milhões com venda; confira",
-   "fonte": "Suno Notícias",
-   "fonte_url": "https://www.suno.com.br/noticias/",
-   "url": "https://www.suno.com.br/noticias/alzr11-venda-galpao-coca-cola/",
-   "publicado_em": "2026-10-30T14:21-03:00",
-   "resumo": "ALZR11 terá lucro extraordinário de R$ 17 milhões com venda; confiraO ALZR11 fechou a venda de um galpão em Santo André (SP) para a Coca-Cola FEMSA, atual…"
-  },
-  {
-   "titulo": "VISC11 reduz dívida em 45% após negociar shoppings",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/visc11-reduz-divida-venda-shoppings",
-   "publicado_em": "2026-10-30T13:19-03:00",
-   "resumo": "O fundo imobiliário VISC11 fechou, em 27 de outubro de 2026, a venda de participações em sete shopping centers por R$ 477,4 milhões ao Tivio Opportunities II…"
-  },
-  {
-   "titulo": "RZAT11 registra queda no lucro, mas mantém dividendos altos",
-   "fonte": "Funds Explorer",
-   "fonte_url": "https://www.fundsexplorer.com.br/noticias",
-   "url": "https://www.fundsexplorer.com.br/noticias/rzat11-yield-anual-carteira-atualizada",
-   "publicado_em": "2026-10-30T11:32-03:00",
-   "resumo": "O RZAT11 fechou setembro de 2026 com resultado de R$ 3,06 milhões, queda de 24,21% frente a agosto, segundo relatório gerencial divulgado pela gestão do fundo…"
-  }
- ],
+ "proventos": [],
+ "relatorios": [],
+ "manchetes": [],
  "destaques": [
   {
-   "titulo": "AAZQ11: sem distribuição e três ativos em crédito estressado | Relatório de setembro/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/aazq11-sem-distribuicao-e-tres-ativos.html",
+   "titulo": "HSAF11: R$ 0,95 por cota com resultado de R$ 0,88 e cota a R$ 77,00 | Relatório de setembro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/hsaf11-r-095-por-cota-com-resultado-de.html",
+   "categoria": "Relatório gerencial",
+   "data": "2026-11-02",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/papel.jpg",
+   "ticker": "HSAF11"
+  },
+  {
+   "titulo": "BTAG11: R$ 1,30 por cota, reserva de R$ 2,07 e carteira a CDI + 4,7% | Relatório de agosto/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/btag11-r-130-por-cota-reserva-de-r-207.html",
    "categoria": "Relatório gerencial",
    "data": "2026-11-02",
    "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/fiagro.jpg",
-   "ticker": "AAZQ11"
+   "ticker": "BTAG11"
   },
   {
-   "titulo": "BRCR11: venda do MV9, R$ 0,41 por cota e R$ 90 milhões vencendo em 2027 | Relatório de setembro/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/brcr11-venda-do-mv9-r-041-por-cota-e-r.html",
-   "categoria": "Relatório gerencial",
-   "data": "2026-11-02",
-   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/lajes.jpg",
-   "ticker": "BRCR11"
-  },
-  {
-   "titulo": "AGRX11: resultado por cota e reserva sustentam a distribuição | Relatório de agosto/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/agrx11-resultado-por-cota-e-reserva.html",
+   "titulo": "KNCA11: R$ 0,93 por cota, 14% em caixa e CRA SuperFrio remarcado | Relatório de setembro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/knca11-r-093-por-cota-14-em-caixa-e-cra.html",
    "categoria": "Relatório gerencial",
    "data": "2026-11-02",
    "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/fiagro.jpg",
-   "ticker": "AGRX11"
+   "ticker": "KNCA11"
   },
   {
-   "titulo": "BPML11: R$ 0,92 por cota acima do resultado e R$ 58 milhões de dívida vencendo em outubro | Relatóri",
-   "url": "https://www.analisandofiis.com.br/2026/11/bpml11-r-092-por-cota-acima-do.html",
+   "titulo": "FIGS11: R$ 0,48 por cota, NOI sobe 23% e UPA no Shopping Bonsucesso | Relatório de setembro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/figs11-r-048-por-cota-noi-sobe-23-e-upa.html",
    "categoria": "Relatório gerencial",
    "data": "2026-11-02",
    "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/shopping.jpg",
-   "ticker": "BPML11"
+   "ticker": "FIGS11"
   }
  ],
  "fundos": {
@@ -971,7 +220,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366590",
     "competencia": "outubro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/btyu11-menor-distribuicao-em-12-meses-e.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/btyu11-patrimonio-cai-cerca-de-30-e.html",
    "video_url": "https://youtu.be/FIVDrS05_qY?sub_confirmation=1"
   },
   "HCST11": {
@@ -983,7 +232,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366056",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/hcst11-sem-distribuicao-em-agosto.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/HsZ3McC7RTo?sub_confirmation=1"
   },
   "HPDP11": {
@@ -1148,7 +397,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366544",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/gcra11-r-068-por-cota-yield-de-173-e.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/bB8AfM6_GMo?sub_confirmation=1"
   },
   "MAGM11": {
@@ -1214,6 +463,26 @@
    "analise_url": "https://www.analisandofiis.com.br/2026/10/hgcr11-r-100-por-cota-resultado-de-r.html",
    "video_url": "https://youtu.be/AweJNEP3B6Q?sub_confirmation=1"
   },
+  "RBHG11": {
+   "nome": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH GRADE FUNDO DE INVESTIMENTO  IMOBILIÁRIO - FII RESP LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 55.52,
+   "data_fechamento": "2026-10-30",
+   "provento": {
+    "valor": 0.75,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364869"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366315",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "HSAF11": {
    "nome": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
    "tipo": "FII",
@@ -1233,7 +502,7 @@
     "competencia": "setembro/2026"
    },
    "video_url": "https://youtu.be/J3xQMrNG1l8?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/hsaf11-distribuicao-de-r-095cota.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/hsaf11-r-095-por-cota-com-resultado-de.html"
   },
   "HTMX11": {
    "nome": "HOTEL MAXINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -1339,6 +608,26 @@
    },
    "analise_url": "https://www.analisandofiis.com.br/2026/10/rzat11-fundo-paga-r-095-por-cota-com.html"
   },
+  "GCRI11": {
+   "nome": "GALAPAGOS RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 65.39,
+   "data_fechamento": "2026-10-30",
+   "provento": {
+    "valor": 0.85,
+    "tipo": "rendimento",
+    "data_com": "2026-10-14",
+    "data_pagamento": "2026-10-21",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1349456"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366336",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "TELM11": {
    "nome": "TELLUS MULTIESTRATÉGIA - FII FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -1378,7 +667,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366819",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/tjkb11-r-290-por-cota-ganho-de-capital.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/It3nRQqQ-hs?sub_confirmation=1"
   },
   "TRBL11": {
@@ -1906,7 +1195,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366139",
     "competencia": "outubro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/gzit11-r-036-por-cota-cota-59-abaixo-do.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/h3jVODK7Jyg?sub_confirmation=1"
   },
   "HCRI11": {
@@ -2151,7 +1440,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366052",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/ggrc11-casas-bahia-nao-paga-aluguel-e.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/j6wB6eB7i_Y?sub_confirmation=1"
   },
   "TVRI11": {
@@ -2880,6 +2169,26 @@
    "video_url": "https://youtu.be/hdQVjhL08qE?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/rzzi11-r-800-por-cota-galpao-100.html"
   },
+  "HREC11": {
+   "nome": "HEDGE RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 8.45,
+   "data_fechamento": "2026-10-30",
+   "provento": {
+    "valor": 0.1,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365684"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366054",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "HSLG11": {
    "nome": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
    "tipo": "FII",
@@ -3011,13 +2320,8 @@
     "data_pagamento": "2026-10-15",
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1340973"
    },
-   "relatorio": {
-    "data_entrega": "2026-09-03",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1308627",
-    "competencia": "julho/2026"
-   },
-   "video_url": "https://youtu.be/PIhnhrjcQJo?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/fisc11-distribuicao-sobe-mas.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/fisc11-distribuicao-sobe-mas.html",
+   "video_url": "https://youtu.be/PIhnhrjcQJo?sub_confirmation=1"
   },
   "RBVA11": {
    "nome": "RIO BRAVO RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -3195,6 +2499,26 @@
    "video_url": "https://youtu.be/JcIPL1Alxf8?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/recm11-r-010-por-cota-pvp-de-078-e.html"
   },
+  "TGAR11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 40.32,
+   "data_fechamento": "2026-10-30",
+   "provento": {
+    "valor": 0.46,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365774"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365779",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "CPTS11": {
    "nome": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -3213,7 +2537,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366529",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/cpts11-distribuicao-consome-reserva-e.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/cpts11-resultado-cai-r-0054-e-cri-de-r.html",
    "video_url": "https://youtu.be/hexMPyGQv84?sub_confirmation=1"
   },
   "TRNT11": {
@@ -3511,7 +2835,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1345687",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/knca11-terceiro-mes-seguido-de-queda-na.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/knca11-r-093-por-cota-14-em-caixa-e-cra.html",
    "video_url": "https://youtu.be/_kyM4re87R8?sub_confirmation=1"
   },
   "MCRE11": {
@@ -3532,7 +2856,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366154",
     "competencia": "outubro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/mcre11-trxf11-em-queda-e-casas-bahia-em.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/PVPm1S62ko4?sub_confirmation=1"
   },
   "PCIP11": {
@@ -3759,6 +3083,24 @@
    "video_url": "https://youtu.be/f4JwiXnSgaU?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/kore11-cota-37-abaixo-do-patrimonial-r.html"
   },
+  "VJFD11": {
+   "nome": "JFDCAM - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 0.88,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364352"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1363299",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "RBHY11": {
    "nome": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESP LIMITADA",
    "tipo": "FII",
@@ -3830,7 +3172,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366580",
     "competencia": "outubro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/btci11-o-relatorio-de-agosto-que-traz.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/btci11-r-0095-por-cota-e-revisao-do.html",
    "video_url": "https://youtu.be/VVEb2pPa_1c?sub_confirmation=1"
   },
   "CPLG11": {
@@ -3879,7 +3221,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366338",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/eqir11-r-010-por-cota-saldo-de-r-0092-e.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/eqir11-r-010-por-cota-acima-do.html",
    "video_url": "https://youtu.be/XOtC79jU258?sub_confirmation=1"
   },
   "EURO11": {
@@ -3941,7 +3283,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366812",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/fatn11-distribuicao-de-r-080-mas-arco.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/fatn11-r-080-por-cota-e-arco-do-triunfo.html",
    "video_url": "https://youtu.be/0hPdeY6ZudM?sub_confirmation=1"
   },
   "GSFI11": {
@@ -4039,7 +3381,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366165",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/fcfl11-um-predio-do-insper-100-ocupado.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/fcfl11-proposta-de-venda-do-unico.html",
    "video_url": "https://youtu.be/C8KVK5QxO7I?sub_confirmation=1"
   },
   "LIFE11": {
@@ -4111,7 +3453,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1347906",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/figs11-casas-bahia-e-marabraz-em.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/figs11-r-048-por-cota-noi-sobe-23-e-upa.html",
    "video_url": "https://youtu.be/sf0gydDi1w0?sub_confirmation=1"
   },
   "FIIB11": {
@@ -4132,7 +3474,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364720",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/fiib11-vacancia-vai-728-e-acordo-adia-r.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
   },
   "FIVN11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VIDA NOVA - FII - RESPONSABILIDADE LIMITADA",
@@ -4180,7 +3522,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366587",
     "competencia": "outubro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/clin11-distribuicao-cai-para-r-100-e.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/clin11-r-100-por-cota-acima-do-lucro-e.html",
    "video_url": "https://youtu.be/kO5jgvkhVQo?sub_confirmation=1"
   },
   "INDE11": {
@@ -4409,7 +3751,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366820",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/flma11-distribuicao-sobe-609-r-122-com.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/QgzGjukiSvs?sub_confirmation=1"
   },
   "ARTE11": {
@@ -4558,6 +3900,26 @@
    "analise_url": "https://www.analisandofiis.com.br/2026/10/hctr11-90-dos-cris-corporativos-em.html",
    "video_url": "https://youtu.be/d-pLCiFik9A?sub_confirmation=1"
   },
+  "HUCG11": {
+   "nome": "Fundo de Investimento Imobiliário Hospital Unimed Campina Grande Responsabilidade Limitada",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 86.0,
+   "data_fechamento": "2026-10-29",
+   "provento": {
+    "valor": 0.68,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-24",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364796"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364332",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "CXTL11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -4583,7 +3945,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366235",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/iagr11-12-meses-sem-rendimentos-cota-61.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
    "video_url": "https://youtu.be/KRip-ykwbaU?sub_confirmation=1"
   },
   "FGAA11": {
@@ -4792,7 +4154,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366312",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/dvff11-r-0065-por-cota-2054-em-12-meses.html",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/dvff11-r-0065-por-cota-e-cri-chemin-com.html",
    "video_url": "https://youtu.be/25swTtTCbR4?sub_confirmation=1"
   },
   "EIRA11": {
@@ -5095,7 +4457,7 @@
     "competencia": "setembro/2026"
    },
    "video_url": "https://youtu.be/X_PphQSYyaM?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/btag11-r-130-por-cota-reserva-de-r-211.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/btag11-r-130-por-cota-reserva-de-r-207.html"
   },
   "CXCE11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CEDAE RESPONSABILIDADE LIMITADA",
@@ -5171,6 +4533,26 @@
    },
    "analise_url": "https://www.analisandofiis.com.br/2026/11/oiag11-r-0110-por-cota-464-em-fiagros.html",
    "video_url": "https://youtu.be/8zQ5KTzWzpw?sub_confirmation=1"
+  },
+  "GARE11": {
+   "nome": "GUARDIAN REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 8.2,
+   "data_fechamento": "2026-10-30",
+   "provento": {
+    "valor": 0.083,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365436"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366160",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
   },
   "IAAG11": {
    "nome": "INTER AMERRA FIAGRO RESPONSABILIDADE LIMITADA",
@@ -5315,7 +4697,7 @@
    "analise_url": "https://www.analisandofiis.com.br/2026/11/zavc11-resultado-de-r-012-abaixo-dos-r.html"
   }
  },
- "giro_url": "https://www.analisandofiis.com.br/2026/10/giro-de-fiis-e-fiagros-de-31-de-outubro.html",
+ "giro_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html",
  "banners_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners",
  "fontes": {
   "proventos": "FNET (B3/CVM)",
