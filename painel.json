@@ -1,7 +1,7 @@
 {
  "versao": "painel-v1",
- "gerado_em": "2026-11-22T04:31:09-03:00",
- "janela_desde": "2026-11-21T04:31:09-03:00",
+ "gerado_em": "2026-11-23T04:31:08-03:00",
+ "janela_desde": "2026-11-20T04:31:08-03:00",
  "pregao": {
   "data": "2026-11-19",
   "anterior": "2026-11-18",
@@ -87,6 +87,14 @@
  "relatorios": [],
  "manchetes": [
   {
+   "titulo": "HABT11 tem 11 CRIs sob alerta; entenda os dados do trimestre",
+   "fonte": "Suno Notícias",
+   "fonte_url": "https://www.suno.com.br/noticias/",
+   "url": "https://www.suno.com.br/noticias/habt11-cris-alerta-estressados-trimestre/",
+   "publicado_em": "2026-11-22T15:16-03:00",
+   "resumo": "HABT11 tem 11 CRIs sob alerta; entenda os dados do trimestreO HABT11, fundo de recebíveis pulverizados gerido pela XP Asset Management, encerrou o terceiro…"
+  },
+  {
    "titulo": "XPIN11 define cronograma de liquidação e troca por cotas do IVBP11",
    "fonte": "Suno Notícias",
    "fonte_url": "https://www.suno.com.br/noticias/",
@@ -143,14 +151,6 @@
    "resumo": "O fundo imobiliário CNES11 (FII Cenesp) comunicou, em 19 de novembro, que não distribuirá dividendos no mês, decisão informada pela administradora BTG Pactual…"
   },
   {
-   "titulo": "MCRE11 usa reservas para sustentar dividendos em novembro; confira",
-   "fonte": "Suno Notícias",
-   "fonte_url": "https://www.suno.com.br/noticias/",
-   "url": "https://www.suno.com.br/noticias/mcre11-mantem-dividendos-reservas-novembro/",
-   "publicado_em": "2026-11-20T11:00-03:00",
-   "resumo": "MCRE11 usa reservas para sustentar dividendos em novembro; confiraO MCRE11 confirmou o pagamento de R$ 0,10 por cota com data marcada para 25 de novembro de…"
-  },
-  {
    "titulo": "TRXF11: quanto investir para garantir R$ 500 por mês?",
    "fonte": "Funds Explorer",
    "fonte_url": "https://www.fundsexplorer.com.br/noticias",
@@ -169,36 +169,36 @@
  ],
  "destaques": [
   {
-   "titulo": "MFII11: Livus faz 16 vendas em outubro e estoque cai a 24 unidades | Relatório de outubro/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/mfii11-livus-faz-16-vendas-em-outubro-e.html",
+   "titulo": "IBBP11: 98,8% de ocupação, obras a 93,8% e R$ 0,0841 por cota | Relatório de outubro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/ibbp11-988-de-ocupacao-obras-938-e-r.html",
    "categoria": "Relatório gerencial",
-   "data": "2026-11-21",
+   "data": "2026-11-22",
    "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/imobiliario.jpg",
-   "ticker": "MFII11"
+   "ticker": "IBBP11"
   },
   {
-   "titulo": "MANA11: R$ 0,11 por cota e 15,8% ao ano com IFIX em queda de 2,9% | Relatório de outubro/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/mana11-r-011-por-cota-e-158-ao-ano-com.html",
+   "titulo": "CXCO11: 100% locado à Caixa, R$ 0,75 por cota e obras de R$ 8,2 milhões | Relatório de setembro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/cxco11-100-locado-caixa-r-075-por-cota.html",
    "categoria": "Relatório gerencial",
-   "data": "2026-11-21",
-   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/papel.jpg",
-   "ticker": "MANA11"
+   "data": "2026-11-22",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/lajes.jpg",
+   "ticker": "CXCO11"
   },
   {
-   "titulo": "CACR11: sem distribuição em outubro e administradora renunciou | Relatório de outubro/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/cacr11-sem-distribuicao-em-outubro-e.html",
+   "titulo": "ARRI11: R$ 0,05 por cota e cota a 49% do patrimônio | Relatório de outubro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/arri11-r-005-por-cota-e-cota-49-do.html",
    "categoria": "Relatório gerencial",
-   "data": "2026-11-21",
+   "data": "2026-11-22",
    "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/papel.jpg",
-   "ticker": "CACR11"
+   "ticker": "ARRI11"
   },
   {
-   "titulo": "BCRI11: R$ 0,70 por cota e 17,91% da carteira em CRIs com problemas | Relatório de outubro/2026",
-   "url": "https://www.analisandofiis.com.br/2026/11/bcri11-r-070-por-cota-e-1791-da.html",
+   "titulo": "GGRC11: compromisso de venda de 10 imóveis por R$ 530 milhões | Relatório de outubro/2026",
+   "url": "https://www.analisandofiis.com.br/2026/11/ggrc11-compromisso-de-venda-de-10.html",
    "categoria": "Relatório gerencial",
-   "data": "2026-11-21",
-   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/papel.jpg",
-   "ticker": "BCRI11"
+   "data": "2026-11-22",
+   "banner_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners/imobiliario.jpg",
+   "ticker": "GGRC11"
   }
  ],
  "fundos": {
@@ -301,20 +301,6 @@
    "video_url": "https://youtu.be/YnfCoi36Frg?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
   },
-  "IMMB11": {
-   "nome": "IMMOBINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 167.0,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-11-12",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1377864",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/2ZP6pwIC6JM?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
-  },
   "DVFF11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - DEVANT FUNDO DE FUNDOS IMOBILIÁRIOS DE RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -357,6 +343,27 @@
    "video_url": "https://youtu.be/oYMCGy4AxUU?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/fatn11-r-080-por-cota-e-arco-do-triunfo.html"
   },
+  "FGAA11": {
+   "nome": "FG/AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROIND FIAGRO IMOBILIÁRIO RESP LIMITADA",
+   "tipo": "FIAGRO",
+   "banner": "fiagro",
+   "fechamento": 7.7,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.11,
+    "tipo": "rendimento",
+    "data_com": "2026-11-09",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372443"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-29",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1362992",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/ZmKCHpthqfM?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/fgaa11-resultado-de-r-0164-por-cota-e.html"
+  },
   "HABT11": {
    "nome": "HABITAT RECEBÍVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -377,6 +384,20 @@
    },
    "video_url": "https://youtu.be/3o_9PUqqS4A?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/habt11-r-092-por-cota-resultado-de-r.html"
+  },
+  "IMMB11": {
+   "nome": "IMMOBINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 167.0,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-11-12",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1377864",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/2ZP6pwIC6JM?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
   },
   "HGBS11": {
    "nome": "HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -399,6 +420,20 @@
    "video_url": "https://youtu.be/s9SlF7iSHEk?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
+  "IAGR11": {
+   "nome": "SFI INVESTIMENTOS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO DE RESP LIMITADA",
+   "tipo": "FIAGRO",
+   "banner": "fiagro",
+   "fechamento": 3.8,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366235",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/wPwwieSc5N4?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "INHF11": {
    "nome": "INTER HEDGE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -419,6 +454,27 @@
    },
    "video_url": "https://youtu.be/Yzlb_M2lEUM?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/inhf11-r-009-por-cota-consolidacao-do.html"
+  },
+  "JSAF11": {
+   "nome": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 6.41,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.08,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365419"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-18",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388523",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/DLr7ulDfycQ?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
   "KFOF11": {
    "nome": "FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO KINEA FII RESPONSABILIDADE LIMITADA",
@@ -441,6 +497,41 @@
    "video_url": "https://youtu.be/Yp25cQhxJ_w?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/kfof11-r-080-por-cota-e-desconto-sobe.html"
   },
+  "RBHG11": {
+   "nome": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH GRADE FUNDO DE INVESTIMENTO  IMOBILIÁRIO - FII RESP LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 51.8,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.75,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364869"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366315",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/2_Pu4DXQlkI?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-6-de-novembro.html"
+  },
+  "RBTS11": {
+   "nome": "RB TFO SITUS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 178.03,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-11-17",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387413",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/Iy8PaoA4D10?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rbts11-707-de-750-unidades-vendidas-e.html"
+  },
   "KNHF11": {
    "nome": "KINEA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -461,6 +552,38 @@
    },
    "video_url": "https://youtu.be/DXYPypvHvOg?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/knhf11-r-100-por-cota-reserva-de-r-139.html"
+  },
+  "SPG215": {
+   "nome": "SPGM II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 0.25447105,
+    "tipo": "rendimento",
+    "data_com": "2026-10-29",
+    "data_pagamento": "2026-11-06",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1362859"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/giro-de-fiis-e-fiagros-de-30-de-outubro.html"
+  },
+  "RDLI11": {
+   "nome": "RBR DESENVOLVIMENTO LOGÍSTICO I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 15.38307228,
+    "tipo": "amortizacao",
+    "data_com": "2026-10-05",
+    "data_pagamento": "2026-10-28",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1340258"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373163",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/HCQvH6zgy9c?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rdli11-r-13857-para-cada-r-100-da.html"
   },
   "KNIP11": {
    "nome": "KINEA ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -495,7 +618,7 @@
     "competencia": "outubro/2026"
    },
    "video_url": "https://youtu.be/5R3-zGkBGVk?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "LVBI11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI LOGÍSTICO - RESPONSABILIDADE LIMITADA",
@@ -517,6 +640,14 @@
    },
    "video_url": "https://youtu.be/QPbwWiU7vvM?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/lvbi11-r-080-por-cota-venda-do-itapevi.html"
+  },
+  "SCPF11": {
+   "nome": "SCP FII - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "shopping",
+   "fechamento": 2.6,
+   "data_fechamento": "2026-11-19",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
   },
   "FIGS11": {
    "nome": "GENERAL SHOPPING ATIVO E RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -560,6 +691,14 @@
    "video_url": "https://youtu.be/8rXWr76HF1k?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/pmll11-r-100-por-cota-reserva-cai-para.html"
   },
+  "SJAU11": {
+   "nome": "SJ AU LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 0.89,
+   "data_fechamento": "2026-11-19",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
+  },
   "KORE11": {
    "nome": "KINEA OPORTUNIDADES REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -581,6 +720,27 @@
    "video_url": "https://youtu.be/Mz4M1D1SB4U?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/kore11-r-060-por-cota-desconto-de-41-e.html"
   },
+  "LASC11": {
+   "nome": "LEGATUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "shopping",
+   "fechamento": 107.0,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.62,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365124"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-07",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1342577",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/g-k21EDW_Ns?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/lasc11-r-066-por-cota-ocupacao-de-959-e.html"
+  },
   "PQDP11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PARQUE DOM PEDRO SHOPPING CENTER RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -601,6 +761,48 @@
    },
    "video_url": "https://youtu.be/weVe8D_5VHc?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-12-de.html"
+  },
+  "SNEL11": {
+   "nome": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 6.93,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.1,
+    "tipo": "rendimento",
+    "data_com": "2026-11-13",
+    "data_pagamento": "2026-11-25",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1381565"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-18",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388694",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/qnC-45SmJKM?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
+  },
+  "SPTW11": {
+   "nome": "SP DOWNTOWN FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+   "tipo": "FII",
+   "banner": "lajes",
+   "fechamento": 24.05,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.45,
+    "tipo": "rendimento",
+    "data_com": "2026-09-30",
+    "data_pagamento": "2026-10-07",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1335993"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-13",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384717",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/gHZdiMT712Q?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-16-de.html"
   },
   "PRSV11": {
    "nome": "PRESIDENTE VARGAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -670,6 +872,77 @@
    "video_url": "https://youtu.be/OLm6JZN9h3o?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
   },
+  "TOPP11": {
+   "nome": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "lajes",
+   "fechamento": 60.46,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.45,
+    "tipo": "rendimento",
+    "data_com": "2026-11-13",
+    "data_pagamento": "2026-11-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384088"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-21",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356180",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/WY1ySCcMSTM?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/topp11-r-045-por-cota-juros-do-cri-no.html"
+  },
+  "TRNT11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII TORRE NORTE",
+   "tipo": "FII",
+   "banner": "lajes",
+   "fechamento": 120.0,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-10-21",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356183",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/r7hxJggUP3w?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/trnt11-sem-rendimento-reserva-de-r-311.html"
+  },
+  "URPR11": {
+   "nome": "URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 15.77,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.3,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366057"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/os-5-fiis-que-menos-renderam-desde.html"
+  },
+  "HLOG11": {
+   "nome": "HEDGE LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 8.81,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.072,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365682"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-19",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1354305",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/17DBEIdk3yU?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/hlog11-52-dos-contratos-vencem-em-2027.html"
+  },
   "RBRX11": {
    "nome": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -712,48 +985,6 @@
    "video_url": "https://youtu.be/NvP3QwbBiME?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rbva11-vacancia-de-97-e-rendimento-de-r.html"
   },
-  "HLOG11": {
-   "nome": "HEDGE LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 8.81,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.072,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365682"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-19",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1354305",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/17DBEIdk3yU?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/hlog11-52-dos-contratos-vencem-em-2027.html"
-  },
-  "LASC11": {
-   "nome": "LEGATUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 107.0,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.62,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365124"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-07",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1342577",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/g-k21EDW_Ns?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/lasc11-r-066-por-cota-ocupacao-de-959-e.html"
-  },
   "RCRB11": {
    "nome": "RIO BRAVO RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -774,6 +1005,48 @@
    },
    "video_url": "https://youtu.be/rv0HxAkNs9c?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rcrb11-r-130-por-cota-com-resultado-de.html"
+  },
+  "VGHF11": {
+   "nome": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 3.87,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.05,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365431"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-04",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1368956",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/TmZwOcv4FUI?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/vghf11-r-006-por-cota-e-cota.html"
+  },
+  "RECT11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RENDA IMOBILIÁRIA - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "lajes",
+   "fechamento": 30.5,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.45,
+    "tipo": "rendimento",
+    "data_com": "2026-11-09",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372073"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373261",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/53pLJMzHIn0?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rect11-r-045-por-cota-e-r-77-milhoes.html"
   },
   "RZZR11": {
    "nome": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -796,47 +1069,104 @@
    "video_url": "https://youtu.be/buIK23iIpTs?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
   },
-  "SPTW11": {
-   "nome": "SP DOWNTOWN FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+  "VIML11": {
+   "nome": "VINCI MALLS II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 24.05,
+   "banner": "shopping",
+   "fechamento": 46.1,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.45,
+    "valor": 0.28524466,
     "tipo": "rendimento",
-    "data_com": "2026-09-30",
-    "data_pagamento": "2026-10-07",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1335993"
+    "data_com": "2026-11-19",
+    "data_pagamento": "2026-11-27",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1389234"
    },
-   "relatorio": {
-    "data_entrega": "2026-11-13",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384717",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/gHZdiMT712Q?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-16-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
   },
-  "RECT11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RENDA IMOBILIÁRIA - RESPONSABILIDADE LIMITADA",
+  "VINO11": {
+   "nome": "VINCI OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
    "banner": "lajes",
-   "fechamento": 30.5,
+   "fechamento": 3.99,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.45,
+    "valor": 0.045,
     "tipo": "rendimento",
-    "data_com": "2026-11-09",
+    "data_com": "2026-10-30",
     "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372073"
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366545"
    },
    "relatorio": {
     "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373261",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373429",
     "competencia": "outubro/2026"
    },
-   "video_url": "https://youtu.be/53pLJMzHIn0?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rect11-r-045-por-cota-e-r-77-milhoes.html"
+   "video_url": "https://youtu.be/vi8Q6ncBivw?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/vino11-rendimento-sobe-r-0045-e-haddock.html"
+  },
+  "VOTS11": {
+   "nome": "TIVIO SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 87.49,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 1.2,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364868"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373166",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/w_2zmMqNFPo?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/vots11-r-120-por-cota-r-076-recorrente.html"
+  },
+  "WHGR11": {
+   "nome": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 7.56,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.1,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364114"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-28",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1360713",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/8G1282XEdtA?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html"
+  },
+  "WPLZ11": {
+   "nome": "SHOPPING WEST PLAZA FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "shopping",
+   "fechamento": 46.76,
+   "data_fechamento": "2026-11-18",
+   "provento": {
+    "valor": 0.37,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365688"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-18",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388725",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/q73n9WCPbvU?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
   "TEPP11": {
    "nome": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -878,6 +1208,83 @@
    },
    "video_url": "https://youtu.be/tR5YnTtlfxA?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/vcra11-r-080-por-cota-e-reserva-cai-de.html"
+  },
+  "VTOT11": {
+   "nome": "VINCI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 56.17,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.85,
+    "tipo": "rendimento",
+    "data_com": "2026-11-13",
+    "data_pagamento": "2026-11-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1383643"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-21",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356199",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/7-wBCdBJ8Ro?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/vtot11-ex-navt11-r-085-por-cota-acima.html"
+  },
+  "XPCI11": {
+   "nome": "XP CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 74.66,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.82,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364995"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-27",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1359603",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/5rNN1lbL0cE?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/xpci11-r-090-por-cota-reserva-de-r-069.html"
+  },
+  "XPCM11": {
+   "nome": "XP CORPORATE MACAÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "lajes",
+   "fechamento": 6.81,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-10-28",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1360374",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/kUv8YBkJLrg?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
+  },
+  "XPML11": {
+   "nome": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+   "tipo": "FII",
+   "banner": "shopping",
+   "fechamento": 81.99,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.8,
+    "tipo": "rendimento",
+    "data_com": "2026-11-17",
+    "data_pagamento": "2026-11-25",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387873"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373061",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/PGudFPLUmaU?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/xpml11-vende-o-cidade-jardim-por-r-454.html"
   },
   "LMAI11": {
    "nome": "LABINA MULTI ATIVOS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -951,6 +1358,27 @@
    },
    "video_url": "https://youtu.be/liV8OXYjhEo?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rbir11-845-vendido-habite-se-do-jurupis.html"
+  },
+  "XPSF11": {
+   "nome": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
+   "tipo": "FII",
+   "banner": "fundo_de_fundos",
+   "fechamento": 5.73,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.07,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364810"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-06",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1370984",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/kGWRY2FTj3M?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
   },
   "FCFL11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII CAMPUS FARIA LIMA RESPONSABILIDADE LIMITADA",
@@ -1036,69 +1464,6 @@
    "video_url": "https://youtu.be/QudvLuBp7zg?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/snag11-r-012-por-cota-com-resultado-de.html"
   },
-  "SPG215": {
-   "nome": "SPGM II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 0.25447105,
-    "tipo": "rendimento",
-    "data_com": "2026-10-29",
-    "data_pagamento": "2026-11-06",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1362859"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/giro-de-fiis-e-fiagros-de-30-de-outubro.html"
-  },
-  "TOPP11": {
-   "nome": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 60.46,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.45,
-    "tipo": "rendimento",
-    "data_com": "2026-11-13",
-    "data_pagamento": "2026-11-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384088"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-21",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356180",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/WY1ySCcMSTM?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/topp11-r-045-por-cota-juros-do-cri-no.html"
-  },
-  "TRNT11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII TORRE NORTE",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 120.0,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-10-21",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356183",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/r7hxJggUP3w?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/trnt11-sem-rendimento-reserva-de-r-311.html"
-  },
-  "VIML11": {
-   "nome": "VINCI MALLS II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 46.1,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.28524466,
-    "tipo": "rendimento",
-    "data_com": "2026-11-19",
-    "data_pagamento": "2026-11-27",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1389234"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
-  },
   "VPPR11": {
    "nome": "V2 PRIME PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -1112,116 +1477,6 @@
    },
    "video_url": "https://youtu.be/Lc6hwpJ0ho8?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/vppr11-sem-rendimento-resultado-de-r.html"
-  },
-  "VRTA11": {
-   "nome": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 63.96,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.85,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-13",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365321"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-18",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388624",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/mbYUidYbaFY?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
-  },
-  "VTOT11": {
-   "nome": "VINCI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 56.17,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.85,
-    "tipo": "rendimento",
-    "data_com": "2026-11-13",
-    "data_pagamento": "2026-11-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1383643"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-21",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356199",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/7-wBCdBJ8Ro?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/vtot11-ex-navt11-r-085-por-cota-acima.html"
-  },
-  "VVCO11": {
-   "nome": "V2 EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 9.18,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-09-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1327045",
-    "competencia": "agosto/2026"
-   },
-   "video_url": "https://youtu.be/L_owy9nFJ8w?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html"
-  },
-  "VVRI11": {
-   "nome": "V2 RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 6.95,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.035,
-    "tipo": "rendimento",
-    "data_com": "2026-11-18",
-    "data_pagamento": "2026-11-26",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388456"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373150",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/NbOEtn_E8W0?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
-  },
-  "XPCM11": {
-   "nome": "XP CORPORATE MACAÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 6.81,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-10-28",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1360374",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/kUv8YBkJLrg?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
-  },
-  "RBRR11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PATRIA RENDIMENTO HIGH GRADE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "provento": {
-    "valor": 0.59,
-    "tipo": "rendimento",
-    "data_com": "2026-11-11",
-    "data_pagamento": "2026-11-18",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1376825"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-21",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356170",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/2V6jDh032i0?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rbrr11-assembleia-vota-venda-da.html"
   },
   "HTMX11": {
    "nome": "HOTEL MAXINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -1265,41 +1520,75 @@
    "video_url": "https://youtu.be/TFyS5XwOVa0?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/inlg11-vacancia-zero-inadimplencia-de.html"
   },
-  "URPR11": {
-   "nome": "URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+  "VRTA11": {
+   "nome": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
    "tipo": "FII",
    "banner": "papel",
-   "fechamento": 15.77,
+   "fechamento": 63.96,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.3,
+    "valor": 0.85,
     "tipo": "rendimento",
     "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366057"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/os-5-fiis-que-menos-renderam-desde.html"
-  },
-  "VGHF11": {
-   "nome": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 3.87,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.05,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365431"
+    "data_pagamento": "2026-11-13",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365321"
    },
    "relatorio": {
-    "data_entrega": "2026-11-04",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1368956",
+    "data_entrega": "2026-11-18",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388624",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/mbYUidYbaFY?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
+  },
+  "VVCO11": {
+   "nome": "V2 EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "lajes",
+   "fechamento": 9.18,
+   "data_fechamento": "2026-11-19",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html",
+   "video_url": "https://youtu.be/L_owy9nFJ8w?sub_confirmation=1"
+  },
+  "RBRR11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PATRIA RENDIMENTO HIGH GRADE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "provento": {
+    "valor": 0.59,
+    "tipo": "rendimento",
+    "data_com": "2026-11-11",
+    "data_pagamento": "2026-11-18",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1376825"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-21",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356170",
     "competencia": "setembro/2026"
    },
-   "video_url": "https://youtu.be/TmZwOcv4FUI?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/vghf11-r-006-por-cota-e-cota.html"
+   "video_url": "https://youtu.be/2V6jDh032i0?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rbrr11-assembleia-vota-venda-da.html"
+  },
+  "VVRI11": {
+   "nome": "V2 RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 6.95,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.035,
+    "tipo": "rendimento",
+    "data_com": "2026-11-18",
+    "data_pagamento": "2026-11-26",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388456"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373150",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/NbOEtn_E8W0?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
   "XPLG11": {
    "nome": "XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA - FII",
@@ -1322,47 +1611,26 @@
    "video_url": "https://youtu.be/CRPQAXJa-cs?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/xplg11-syslog-sp-renovado-com-aluguel.html"
   },
-  "XPML11": {
-   "nome": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+  "FLMA11": {
+   "nome": "FII CONTINENTAL SQUARE FARIA LIMA - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 81.99,
+   "banner": "lajes",
+   "fechamento": 150.05,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.8,
+    "valor": 1.11,
     "tipo": "rendimento",
-    "data_com": "2026-11-17",
-    "data_pagamento": "2026-11-25",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387873"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373061",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/PGudFPLUmaU?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/xpml11-vende-o-cidade-jardim-por-r-454.html"
-  },
-  "XPSF11": {
-   "nome": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
-   "tipo": "FII",
-   "banner": "fundo_de_fundos",
-   "fechamento": 5.73,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.07,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
+    "data_com": "2026-11-06",
     "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364810"
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1370811"
    },
    "relatorio": {
-    "data_entrega": "2026-11-06",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1370984",
+    "data_entrega": "2026-10-31",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366820",
     "competencia": "setembro/2026"
    },
-   "video_url": "https://youtu.be/kGWRY2FTj3M?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
+   "video_url": "https://youtu.be/9gs5xJ0xAPo?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
   },
   "LSAG11": {
    "nome": "RIZA AGRO II FI NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO - IMOBILIÁRIO - RESP LIMITADA",
@@ -1382,7 +1650,7 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1359051",
     "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "NCRI11": {
    "nome": "NAVI CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -1426,26 +1694,26 @@
    "video_url": "https://youtu.be/l6ENfCvobJk?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/oujp11-r-120-por-cota-reorganizacao.html"
   },
-  "FLMA11": {
-   "nome": "FII CONTINENTAL SQUARE FARIA LIMA - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 150.05,
+  "BBGO11": {
+   "nome": "BB FUNDO DE INVESTIMENTO DE CRÉDITO FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FIAGRO",
+   "banner": "fiagro",
+   "fechamento": 60.34,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 1.11,
+    "valor": 0.8,
     "tipo": "rendimento",
-    "data_com": "2026-11-06",
+    "data_com": "2026-10-30",
     "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1370811"
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365783"
    },
    "relatorio": {
-    "data_entrega": "2026-10-31",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366820",
+    "data_entrega": "2026-10-28",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1360074",
     "competencia": "setembro/2026"
    },
-   "video_url": "https://youtu.be/9gs5xJ0xAPo?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+   "video_url": "https://youtu.be/S2nnaBXiOd8?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/bbgo11-r-080-por-cota-resultado-de-r.html"
   },
   "GCRA11": {
    "nome": "GALAPAGOS RECEBÍVEIS DO AGRONEGÓCIO - FIAGRO - RESPONSABILIDADE LIMITADA",
@@ -1467,132 +1735,6 @@
    },
    "video_url": "https://youtu.be/8pPCxaAKuAc?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
-  },
-  "RZAK11": {
-   "nome": "RIZA AKIN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 68.33,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 1.05,
-    "tipo": "rendimento",
-    "data_com": "2026-11-16",
-    "data_pagamento": "2026-11-24",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1386934"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358144",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/xkiExJT6K98?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
-  },
-  "SAPI11": {
-   "nome": "SANTANDER PAPÉIS IMOBILIÁRIOS FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 7.26,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.1,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365694"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387107",
-    "competencia": "novembro/2026"
-   },
-   "video_url": "https://youtu.be/fFybSz70zrU?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/sapi11-r-010-por-cota-caixa-de-23-e-cri.html"
-  },
-  "VINO11": {
-   "nome": "VINCI OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 3.99,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.045,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366545"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373429",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/vi8Q6ncBivw?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/vino11-rendimento-sobe-r-0045-e-haddock.html"
-  },
-  "WHGR11": {
-   "nome": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 7.56,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.1,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364114"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-28",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1360713",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/8G1282XEdtA?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html"
-  },
-  "WPLZ11": {
-   "nome": "SHOPPING WEST PLAZA FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 46.76,
-   "data_fechamento": "2026-11-18",
-   "provento": {
-    "valor": 0.37,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365688"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-18",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388725",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/q73n9WCPbvU?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
-  },
-  "BBGO11": {
-   "nome": "BB FUNDO DE INVESTIMENTO DE CRÉDITO FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FIAGRO",
-   "banner": "fiagro",
-   "fechamento": 60.34,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.8,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365783"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-28",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1360074",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/S2nnaBXiOd8?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/bbgo11-r-080-por-cota-resultado-de-r.html"
   },
   "ITIT11": {
    "nome": "INTER TEVA ÍNDICE DE TIJOLO FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
@@ -1636,61 +1778,47 @@
    "video_url": "https://youtu.be/qxhf592sQe4?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
   },
-  "WTSP11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO OURINVEST RE I - RESPONSABILIDADE LIMITADA",
+  "RZAK11": {
+   "nome": "RIZA AKIN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 69.88,
+   "banner": "papel",
+   "fechamento": 68.33,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.8,
+    "valor": 1.05,
     "tipo": "rendimento",
     "data_com": "2026-11-16",
     "data_pagamento": "2026-11-24",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1386502"
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1386934"
    },
    "relatorio": {
-    "data_entrega": "2026-10-26",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358931",
+    "data_entrega": "2026-10-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358144",
     "competencia": "setembro/2026"
    },
+   "video_url": "https://youtu.be/xkiExJT6K98?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
   },
-  "XLPR11": {
-   "nome": "XLPR FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+  "SAPI11": {
+   "nome": "SANTANDER PAPÉIS IMOBILIÁRIOS FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA",
    "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 63.15,
+   "banner": "imobiliario",
+   "fechamento": 7.26,
    "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.39042212,
+    "valor": 0.1,
     "tipo": "rendimento",
     "data_com": "2026-10-30",
     "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364885"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-6-de-novembro.html"
-  },
-  "XPCI11": {
-   "nome": "XP CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 74.66,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.82,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364995"
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365694"
    },
    "relatorio": {
-    "data_entrega": "2026-10-27",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1359603",
-    "competencia": "setembro/2026"
+    "data_entrega": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387107",
+    "competencia": "novembro/2026"
    },
-   "video_url": "https://youtu.be/5rNN1lbL0cE?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/xpci11-r-090-por-cota-reserva-de-r-069.html"
+   "video_url": "https://youtu.be/fFybSz70zrU?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/sapi11-r-010-por-cota-caixa-de-23-e-cri.html"
   },
   "NEXG11": {
    "nome": "NEX CRÉDITO AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO RESP LIMITADA",
@@ -1742,13 +1870,61 @@
    "video_url": "https://youtu.be/t4CRiI8Birk?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-16-de.html"
   },
-  "SCPF11": {
-   "nome": "SCP FII - RESPONSABILIDADE LIMITADA",
+  "WTSP11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO OURINVEST RE I - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 2.6,
+   "banner": "imobiliario",
+   "fechamento": 69.88,
    "data_fechamento": "2026-11-19",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
+   "provento": {
+    "valor": 0.8,
+    "tipo": "rendimento",
+    "data_com": "2026-11-16",
+    "data_pagamento": "2026-11-24",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1386502"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-26",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358931",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
+  },
+  "XLPR11": {
+   "nome": "XLPR FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 63.15,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.39042212,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364885"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-6-de-novembro.html"
+  },
+  "CXCI11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CARTEIRA IMOBILIÁRIA RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "fundo_de_fundos",
+   "fechamento": 62.22,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.75,
+    "tipo": "rendimento",
+    "data_com": "2026-11-09",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372515"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-10",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1375241",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/B5ZtFkhDqzs?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/cxci11-resultado-de-r-074-e.html"
   },
   "PCIP11": {
    "nome": "PATRIA CRÉDITO IMOBILIÁRIO ÍNDICE DE PREÇOS FII - RESPONSABILIDADE LIMITADA",
@@ -1855,27 +2031,6 @@
    "video_url": "https://youtu.be/UttjFNDjDZE?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
-  "CXCI11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CARTEIRA IMOBILIÁRIA RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "fundo_de_fundos",
-   "fechamento": 62.22,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.75,
-    "tipo": "rendimento",
-    "data_com": "2026-11-09",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372515"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-10",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1375241",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/B5ZtFkhDqzs?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/cxci11-resultado-de-r-074-e.html"
-  },
   "MANA11": {
    "nome": "MANATÍ CAPITAL HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -1939,6 +2094,25 @@
    "video_url": "https://youtu.be/3ut_DFeOE40?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/newl11-r-100-por-cota-e-brinox-avisa.html"
   },
+  "RCFF11": {
+   "nome": "PATRIA DESENVOLVIMENTO COMERCIAL FEEDER FOF - FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
+   "tipo": "FII",
+   "banner": "fundo_de_fundos",
+   "provento": {
+    "valor": 0.1526,
+    "tipo": "rendimento",
+    "data_com": "2026-11-13",
+    "data_pagamento": "2026-11-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384145"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-13",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1347967",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/gMkWQsW1l8Y?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rcff11-feeder-com-324-em-caixa-retorno.html"
+  },
   "VSLH11": {
    "nome": "VERSALHES RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -1959,99 +2133,6 @@
    },
    "video_url": "https://youtu.be/QjEGcA2Saoo?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/vslh11-r-002-por-cota-e-72-do.html"
-  },
-  "RBRI11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENVOLVIMENTO III RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 21.48,
-    "tipo": "amortizacao",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-12-07",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365013"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-04",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1369094",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/oXWRENjy-2k?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rbri11-fundo-ja-devolveu-8506-do.html"
-  },
-  "RCFF11": {
-   "nome": "PATRIA DESENVOLVIMENTO COMERCIAL FEEDER FOF - FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
-   "tipo": "FII",
-   "banner": "fundo_de_fundos",
-   "provento": {
-    "valor": 0.1526,
-    "tipo": "rendimento",
-    "data_com": "2026-11-13",
-    "data_pagamento": "2026-11-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384145"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-13",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1347967",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/gMkWQsW1l8Y?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rcff11-feeder-com-324-em-caixa-retorno.html"
-  },
-  "RECM11": {
-   "nome": "REC MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 6.0,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.085,
-    "tipo": "rendimento",
-    "data_com": "2026-11-09",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372066"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373271",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/iJ1ilfseCD8?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
-  },
-  "RINV11": {
-   "nome": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 96.5,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 1.1,
-    "tipo": "rendimento",
-    "data_com": "2026-11-13",
-    "data_pagamento": "2026-11-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1383925"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-22",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356832",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/PhZtn-BGE5M?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rinv11-r-105-por-cota-r-115-de-reserva.html"
-  },
-  "IVBP11": {
-   "nome": "INVISTA BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 0.05635676,
-    "tipo": "rendimento",
-    "data_com": "2026-11-16",
-    "data_pagamento": "2026-11-24",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387002"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
   },
   "BLCA11": {
    "nome": "CATUAÍ VBI TRIPLE A FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -2093,6 +2174,109 @@
    },
    "video_url": "https://youtu.be/6l50QvVlmq4?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
+  },
+  "RECM11": {
+   "nome": "REC MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 6.0,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.085,
+    "tipo": "rendimento",
+    "data_com": "2026-11-09",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372066"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373271",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/iJ1ilfseCD8?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
+  },
+  "RINV11": {
+   "nome": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 96.5,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 1.1,
+    "tipo": "rendimento",
+    "data_com": "2026-11-13",
+    "data_pagamento": "2026-11-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1383925"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-22",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1356832",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/PhZtn-BGE5M?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rinv11-r-105-por-cota-r-115-de-reserva.html"
+  },
+  "RBRI11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENVOLVIMENTO III RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 21.48,
+    "tipo": "amortizacao",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-12-07",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365013"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-04",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1369094",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/oXWRENjy-2k?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rbri11-fundo-ja-devolveu-8506-do.html"
+  },
+  "DAYM11": {
+   "nome": "DAYCOVAL REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 3.91,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.037,
+    "tipo": "rendimento",
+    "data_com": "2026-11-16",
+    "data_pagamento": "2026-11-24",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387085"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-11",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1377349",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/xGtlCFsOHXc?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-12-de.html"
+  },
+  "EGAF11": {
+   "nome": "ECOAGRO I FIAGRO- RESPONSABILIDADE LIMITADA",
+   "tipo": "FIAGRO",
+   "banner": "fiagro",
+   "fechamento": 72.35,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 1.21,
+    "tipo": "rendimento",
+    "data_com": "2026-11-04",
+    "data_pagamento": "2026-11-11",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1368837"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-05",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1340477",
+    "competencia": "agosto/2026"
+   },
+   "video_url": "https://youtu.be/7eN5jlxQr48?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html"
   },
   "RZAT11": {
    "nome": "RIZA ARCTIUM REAL ESTATE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -2136,26 +2320,18 @@
    "video_url": "https://youtu.be/ri2QXD6Z4yw?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/tvri11-6-imoveis-comprados-por-r-1431.html"
   },
-  "DAYM11": {
-   "nome": "DAYCOVAL REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+  "IVBP11": {
+   "nome": "INVISTA BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
    "banner": "imobiliario",
-   "fechamento": 3.91,
-   "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.037,
+    "valor": 0.05635676,
     "tipo": "rendimento",
     "data_com": "2026-11-16",
     "data_pagamento": "2026-11-24",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387085"
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387002"
    },
-   "relatorio": {
-    "data_entrega": "2026-11-11",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1377349",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/xGtlCFsOHXc?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-12-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
   },
   "DCRA11": {
    "nome": "DEVANT FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO DE RESPONSABILIDADE LIMITADA",
@@ -2177,81 +2353,6 @@
    },
    "video_url": "https://youtu.be/b0B-mU_orUM?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/dcra11-r-009-por-cota-232-em-caixa-e.html"
-  },
-  "EGAF11": {
-   "nome": "ECOAGRO I FIAGRO- RESPONSABILIDADE LIMITADA",
-   "tipo": "FIAGRO",
-   "banner": "fiagro",
-   "fechamento": 72.35,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 1.21,
-    "tipo": "rendimento",
-    "data_com": "2026-11-04",
-    "data_pagamento": "2026-11-11",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1368837"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-05",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1340477",
-    "competencia": "agosto/2026"
-   },
-   "video_url": "https://youtu.be/7eN5jlxQr48?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html"
-  },
-  "VIUR11": {
-   "nome": "VINCI IMÓVEIS URBANOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 2.37,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373144",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/ifatJCNeN8M?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/viur11-sem-rendimentos-desde-fevereiro.html"
-  },
-  "VOTS11": {
-   "nome": "TIVIO SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 87.49,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 1.2,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364868"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373166",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/w_2zmMqNFPo?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/vots11-r-120-por-cota-r-076-recorrente.html"
-  },
-  "BTYU11": {
-   "nome": "BTG PACTUAL YOU INC. DESENVOLVIMENTO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDAD",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 5.0,
-    "tipo": "rendimento",
-    "data_com": "2026-10-14",
-    "data_pagamento": "2026-10-21",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1349458"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-30",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366590",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/cZPMMxbNjzw?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/btyu11-patrimonio-cai-cerca-de-30-e.html"
   },
   "JSRE11": {
    "nome": "JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -2294,6 +2395,20 @@
    },
    "video_url": "https://youtu.be/l4xWYwpwn0Y?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/oiag11-r-0110-por-cota-464-em-fiagros.html"
+  },
+  "VIUR11": {
+   "nome": "VINCI IMÓVEIS URBANOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 2.37,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373144",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/ifatJCNeN8M?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/viur11-sem-rendimentos-desde-fevereiro.html"
   },
   "RMBS11": {
    "nome": "REC MASTER FUNDO DE CRI COTAS AMORTIZÁVEIS FII - RESPONSABILIDADE LIMITADA",
@@ -2379,6 +2494,25 @@
    "video_url": "https://youtu.be/sBiHXEKwUQM?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/vcri11-paga-r-009-por-cota-acima-do.html"
   },
+  "BTYU11": {
+   "nome": "BTG PACTUAL YOU INC. DESENVOLVIMENTO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDAD",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 5.0,
+    "tipo": "rendimento",
+    "data_com": "2026-10-14",
+    "data_pagamento": "2026-10-21",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1349458"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366590",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/cZPMMxbNjzw?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/btyu11-patrimonio-cai-cerca-de-30-e.html"
+  },
   "BRCR11": {
    "nome": "BTG PACTUAL CORPORATE OFFICE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -2441,27 +2575,6 @@
    },
    "video_url": "https://youtu.be/4HcMgL0WuwY?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
-  },
-  "VGIR11": {
-   "nome": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 8.13,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.119,
-    "tipo": "rendimento",
-    "data_com": "2026-11-12",
-    "data_pagamento": "2026-11-19",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1379870"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-20",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1355284",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/_n1sKu8GQew?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
   },
   "BTRA11": {
    "nome": "BTG PACTUAL TERRAS AGRÍCOLAS FIAGRO RESPONSABILIDADE LIMITADA",
@@ -2526,26 +2639,26 @@
    "video_url": "https://youtu.be/SLAiYMeu-do?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/cxce11-r-051-por-cota-e-predio-unico.html"
   },
-  "VGRH11": {
-   "nome": "HEDGE VGR CRÉDITO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+  "VGIR11": {
+   "nome": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
    "banner": "papel",
-   "fechamento": 100.0,
-   "data_fechamento": "2026-11-18",
+   "fechamento": 8.13,
+   "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 0.85,
+    "valor": 0.119,
     "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365687"
+    "data_com": "2026-11-12",
+    "data_pagamento": "2026-11-19",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1379870"
    },
    "relatorio": {
-    "data_entrega": "2026-11-06",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1371419",
+    "data_entrega": "2026-10-20",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1355284",
     "competencia": "setembro/2026"
    },
-   "video_url": "https://youtu.be/PREmPSjZUsw?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
+   "video_url": "https://youtu.be/_n1sKu8GQew?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "VGRI11": {
    "nome": "VALORA RENDA IMOBILIÁRIA FUNDO DE  INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -2631,34 +2744,26 @@
    "video_url": "https://youtu.be/ixqd02UmOXU?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/pqag11-resultado-de-r-054-por-cota-e-r.html"
   },
-  "SHPP11": {
-   "nome": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+  "VGRH11": {
+   "nome": "HEDGE VGR CRÉDITO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 11.0,
-   "data_fechamento": "2026-11-19",
+   "banner": "papel",
+   "fechamento": 100.0,
+   "data_fechamento": "2026-11-18",
    "provento": {
-    "valor": 0.06,
+    "valor": 0.85,
     "tipo": "rendimento",
-    "data_com": "2026-11-16",
-    "data_pagamento": "2026-11-24",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387041"
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365687"
    },
    "relatorio": {
-    "data_entrega": "2026-10-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1353608",
-    "competencia": "junho/2026"
+    "data_entrega": "2026-11-06",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1371419",
+    "competencia": "setembro/2026"
    },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html",
-   "video_url": "https://youtu.be/-EKfmkSgunM?sub_confirmation=1"
-  },
-  "SJAU11": {
-   "nome": "SJ AU LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 0.89,
-   "data_fechamento": "2026-11-19",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "video_url": "https://youtu.be/PREmPSjZUsw?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
   },
   "EIRA11": {
    "nome": "AROEIRA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -2680,6 +2785,27 @@
    },
    "video_url": "https://youtu.be/MF0JNhmrOHU?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
+  },
+  "SHPP11": {
+   "nome": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+   "tipo": "FII",
+   "banner": "shopping",
+   "fechamento": 11.0,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.06,
+    "tipo": "rendimento",
+    "data_com": "2026-11-16",
+    "data_pagamento": "2026-11-24",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387041"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1353608",
+    "competencia": "junho/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html",
+   "video_url": "https://youtu.be/-EKfmkSgunM?sub_confirmation=1"
   },
   "SNME11": {
    "nome": "SUNO MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -2738,24 +2864,6 @@
    "video_url": "https://youtu.be/pBJwjjTH9mY?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
-  "REME11": {
-   "nome": "RB MULTIESTRATÉGIA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 15.27,
-    "tipo": "amortizacao",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-30",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1374666"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358148",
-    "competencia": "setembro/2026"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-11-de.html"
-  },
   "GSFI11": {
    "nome": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -2777,27 +2885,6 @@
    "video_url": "https://youtu.be/wMxC04EZJzk?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/gsfi11-permuta-formalizada-ocupacao-de.html"
   },
-  "JGPX11": {
-   "nome": "JGP CRÉDITO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO IMOBILIÁRIO DE RESP LIMITADA",
-   "tipo": "FIAGRO",
-   "banner": "fiagro",
-   "fechamento": 54.19,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 1.0,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365701"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387199",
-    "competencia": "outubro/2026"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/jgpx11-r-100-por-cota-acima-do.html",
-   "video_url": "https://youtu.be/R2LqILii-BY?sub_confirmation=1"
-  },
   "VVMR11": {
    "nome": "V2 MULTI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -2811,12 +2898,25 @@
     "data_pagamento": "2026-11-23",
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1370283"
    },
-   "relatorio": {
-    "data_entrega": "2026-09-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1327201",
-    "competencia": "agosto/2026"
-   },
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-6-de-novembro.html"
+  },
+  "REME11": {
+   "nome": "RB MULTIESTRATÉGIA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 15.27,
+    "tipo": "amortizacao",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1374666"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358148",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-11-de.html"
   },
   "HCTR11": {
    "nome": "HECTARE CE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -2853,6 +2953,27 @@
     "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365410"
    },
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-3-de-novembro.html"
+  },
+  "JGPX11": {
+   "nome": "JGP CRÉDITO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO IMOBILIÁRIO DE RESP LIMITADA",
+   "tipo": "FIAGRO",
+   "banner": "fiagro",
+   "fechamento": 54.19,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 1.0,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365701"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387199",
+    "competencia": "outubro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/jgpx11-r-100-por-cota-acima-do.html",
+   "video_url": "https://youtu.be/R2LqILii-BY?sub_confirmation=1"
   },
   "RURA11": {
    "nome": "ITAÚ ASSET RURAL FIAGRO RESPONSABILIDADE LIMITADA",
@@ -2949,25 +3070,6 @@
    },
    "video_url": "https://youtu.be/4qNM2LZIhPY?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
-  },
-  "RSPD11": {
-   "nome": "RB CAPITAL DESENVOLVIMENTO RESIDENCIAL III FII - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 40.26548376,
-    "tipo": "amortizacao",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-12-18",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364800"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-10",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373885",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/BG4A6p1kJQE?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rspd11-855-das-unidades-vendidas-e.html"
   },
   "FTCA11": {
    "nome": "FYTO RECEBÍVEIS DO AGRONEGÓCIO - FIAGRO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -3157,24 +3259,24 @@
    "video_url": "https://youtu.be/I65WiZ2swck?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-16-de.html"
   },
-  "RDLI11": {
-   "nome": "RBR DESENVOLVIMENTO LOGÍSTICO I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+  "RSPD11": {
+   "nome": "RB CAPITAL DESENVOLVIMENTO RESIDENCIAL III FII - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
    "banner": "imobiliario",
    "provento": {
-    "valor": 15.38307228,
+    "valor": 40.26548376,
     "tipo": "amortizacao",
-    "data_com": "2026-10-05",
-    "data_pagamento": "2026-10-28",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1340258"
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-12-18",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364800"
    },
    "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373163",
-    "competencia": "outubro/2026"
+    "data_entrega": "2026-11-10",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373885",
+    "competencia": "setembro/2026"
    },
-   "video_url": "https://youtu.be/HCQvH6zgy9c?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rdli11-r-13857-para-cada-r-100-da.html"
+   "video_url": "https://youtu.be/BG4A6p1kJQE?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rspd11-855-das-unidades-vendidas-e.html"
   },
   "GAME11": {
    "nome": "GUARDIAN MULTIESTRATÉGIA IMOBILIÁRIA I FII DE RESPONSABILIDADE LIMITADA",
@@ -3302,6 +3404,27 @@
    "video_url": "https://youtu.be/jZfQl9gqhZo?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/pvbi11-r-037-por-cota-vacancia-de-20-e.html"
   },
+  "RECR11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 65.48,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.7636,
+    "tipo": "rendimento",
+    "data_com": "2026-11-09",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372090"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373276",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/8Hr6XxVB3oQ?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/recr11-r-076-por-cota-e-dois-cris-em.html"
+  },
   "SMRE11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SMART REAL ESTATE - FII RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -3421,6 +3544,27 @@
    "video_url": "https://youtu.be/OZS25LuRo_o?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rbop11-r-145-por-cota-com-resultado-de.html"
   },
+  "TELM11": {
+   "nome": "TELLUS MULTIESTRATÉGIA - FII FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 9.47,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.09,
+    "tipo": "rendimento",
+    "data_com": "2026-11-12",
+    "data_pagamento": "2026-11-19",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1379873"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-08",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1343127",
+    "competencia": "agosto/2026"
+   },
+   "video_url": "https://youtu.be/8msU1VH6oSo?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
+  },
   "TRBL11": {
    "nome": "TELLUS RIO BRAVO RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -3526,19 +3670,6 @@
    "video_url": "https://youtu.be/4dor_faZ8ho?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rztr11-r-085-por-cota-fazenda-vendida.html"
   },
-  "ICNE11": {
-   "nome": "ÍCONE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 7.02628196,
-    "tipo": "amortizacao",
-    "data_com": "2026-11-17",
-    "data_pagamento": "2026-11-25",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387828"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-18-de.html"
-  },
   "IBBP11": {
    "nome": "INVISTA BRAZILIAN BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO",
    "tipo": "FII",
@@ -3558,7 +3689,7 @@
     "competencia": "outubro/2026"
    },
    "video_url": "https://youtu.be/GT2mJCv3bbU?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/ibbp11-r-00841-por-cota-vacancia-de-13.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/ibbp11-988-de-ocupacao-obras-938-e-r.html"
   },
   "JSCR11": {
    "nome": "JS RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -3600,6 +3731,19 @@
    },
    "video_url": "https://youtu.be/S7eSA8PKgRY?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/knca11-r-100-por-cota-novo-cri-da-fs-e.html"
+  },
+  "ICNE11": {
+   "nome": "ÍCONE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 7.02628196,
+    "tipo": "amortizacao",
+    "data_com": "2026-11-17",
+    "data_pagamento": "2026-11-25",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387828"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-18-de.html"
   },
   "GZIT11": {
    "nome": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -3643,34 +3787,13 @@
    "video_url": "https://youtu.be/S_RHe8XIRIM?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/jccj11-r-177-por-cota-resultado-de-r.html"
   },
-  "RBHG11": {
-   "nome": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH GRADE FUNDO DE INVESTIMENTO  IMOBILIÁRIO - FII RESP LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 51.8,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.75,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364869"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-30",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366315",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/2_Pu4DXQlkI?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-6-de-novembro.html"
-  },
   "MGHT11": {
    "nome": "TZDK FUNDO DE INVESTIMENTO IMOBILIÁRIORESPONSABILIDADE LIMITADA",
    "tipo": "FII",
    "banner": "imobiliario",
    "fechamento": 11.18,
    "data_fechamento": "2026-11-19",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "RBRP11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA PROPERTIES - FII RESPONSABILIDADE LIMITADA",
@@ -3714,27 +3837,6 @@
    "video_url": "https://youtu.be/oWuo0D-5v3I?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rcri11-resultado-de-r-137-com-venda-de.html"
   },
-  "RECR11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 65.48,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.7636,
-    "tipo": "rendimento",
-    "data_com": "2026-11-09",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372090"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373276",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/8Hr6XxVB3oQ?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/recr11-r-076-por-cota-e-dois-cris-em.html"
-  },
   "GGRC11": {
    "nome": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -3754,7 +3856,7 @@
     "competencia": "outubro/2026"
    },
    "video_url": "https://youtu.be/Zq8Nn8_mxFM?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/ggrc11-r-010-por-cota-venda-de-r-530.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/ggrc11-compromisso-de-venda-de-10.html"
   },
   "HCRI11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HOSPITAL DA CRIANÇA RESPONSABILIDADE LIMITADA",
@@ -3797,27 +3899,6 @@
    },
    "video_url": "https://youtu.be/-X7QL4zgGTg?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/spxs11-r-0101-por-cota-acima-do.html"
-  },
-  "TELM11": {
-   "nome": "TELLUS MULTIESTRATÉGIA - FII FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 9.47,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.09,
-    "tipo": "rendimento",
-    "data_com": "2026-11-12",
-    "data_pagamento": "2026-11-19",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1379873"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-08",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1343127",
-    "competencia": "agosto/2026"
-   },
-   "video_url": "https://youtu.be/8msU1VH6oSo?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-13-de.html"
   },
   "HUSC11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO HOSPITAL UNIMED SUL CAPIXABA",
@@ -3901,7 +3982,7 @@
     "competencia": "outubro/2026"
    },
    "video_url": "https://youtu.be/BtnpcpBJc7Q?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "KNCR11": {
    "nome": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -4100,6 +4181,25 @@
    "video_url": "https://youtu.be/RLGDkh-xgm8?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/mfii11-livus-faz-16-vendas-em-outubro-e.html"
   },
+  "RZZI11": {
+   "nome": "RAIZZ DESENVOLVIMENTO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 9.20000004,
+    "tipo": "rendimento",
+    "data_com": "2026-11-13",
+    "data_pagamento": "2026-11-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384056"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-04",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1369095",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/R_1O8YrBNEo?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rzzi11-galpao-em-itajai-100-ocupado-e.html"
+  },
   "CYCR11": {
    "nome": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -4266,27 +4366,6 @@
    "video_url": "https://youtu.be/nT61Sf_J5yE?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/rres11-r-017-por-cota-e-desconto-de-51.html"
   },
-  "SNEL11": {
-   "nome": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 6.93,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.1,
-    "tipo": "rendimento",
-    "data_com": "2026-11-13",
-    "data_pagamento": "2026-11-25",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1381565"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-18",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388694",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/qnC-45SmJKM?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
-  },
   "FLCR11": {
    "nome": "FARIA LIMA CAPITAL RECEBÍVEIS IMOBILIÁRIOS I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LI",
    "tipo": "FII",
@@ -4433,6 +4512,21 @@
    "video_url": "https://youtu.be/26pKQDPs1vY?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/bmlc11-r-079-por-cota-e-quatro-andares.html"
   },
+  "GLCR11": {
+   "nome": "GALAPAGOS HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 93.21,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 0.65,
+    "tipo": "rendimento",
+    "data_com": "2026-11-16",
+    "data_pagamento": "2026-11-24",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1386984"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
+  },
   "VSHO11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VOTORANTIM SHOPPING",
    "tipo": "FII",
@@ -4454,24 +4548,26 @@
    "video_url": "https://youtu.be/L9-Jct3rFZA?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/vsho11-distribui-r-150-por-cota-gera-r.html"
   },
-  "RZZI11": {
-   "nome": "RAIZZ DESENVOLVIMENTO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+  "GTWR11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "imobiliario",
+   "banner": "lajes",
+   "fechamento": 74.6,
+   "data_fechamento": "2026-11-19",
    "provento": {
-    "valor": 9.20000004,
+    "valor": 0.9,
     "tipo": "rendimento",
-    "data_com": "2026-11-13",
-    "data_pagamento": "2026-11-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1384056"
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364979"
    },
    "relatorio": {
-    "data_entrega": "2026-11-04",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1369095",
-    "competencia": "setembro/2026"
+    "data_entrega": "2026-11-09",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373140",
+    "competencia": "outubro/2026"
    },
-   "video_url": "https://youtu.be/R_1O8YrBNEo?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rzzi11-galpao-em-itajai-100-ocupado-e.html"
+   "video_url": "https://youtu.be/iUIkbs_kGOs?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/gtwr11-resultado-de-r-090-por-cota-100.html"
   },
   "HGBL11": {
    "nome": "HEDGE BRASIL LOGÍSTICO INDUSTRIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -4522,25 +4618,6 @@
    "fechamento": 29.61,
    "data_fechamento": "2026-11-19",
    "analise_url": "https://www.analisandofiis.com.br/2026/10/os-5-fiis-que-mais-renderam-desde.html"
-  },
-  "JPPA11": {
-   "nome": "RIO BRAVO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "provento": {
-    "valor": 1.2,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365620"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-23",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358294",
-    "competencia": "setembro/2026"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/jppa11-r-120-por-cota-resultado-de-r.html",
-   "video_url": "https://youtu.be/6QGA6k3shTU?sub_confirmation=1"
   },
   "BTHI11": {
    "nome": "BTG HOTÉIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -4625,6 +4702,25 @@
    },
    "video_url": "https://youtu.be/JEfmlUTXxis?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/psec11-assembleia-propoe-venda-ao.html"
+  },
+  "JPPA11": {
+   "nome": "RIO BRAVO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "provento": {
+    "valor": 1.2,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365620"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-23",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1358294",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/10/jppa11-r-120-por-cota-resultado-de-r.html",
+   "video_url": "https://youtu.be/6QGA6k3shTU?sub_confirmation=1"
   },
   "FISC11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SC 401 - RESPONSABILIDADE LIMITADA",
@@ -4771,24 +4867,6 @@
    },
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-10-de.html"
   },
-  "VJFD11": {
-   "nome": "JFDCAM - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 0.88,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364352"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-30",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1363299",
-    "competencia": "setembro/2026"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
-  },
   "FYTO11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII FYTO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -4887,6 +4965,24 @@
    "video_url": "https://youtu.be/CXZwDznNOrU?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-16-de.html"
   },
+  "VJFD11": {
+   "nome": "JFDCAM - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "provento": {
+    "valor": 0.88,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364352"
+   },
+   "relatorio": {
+    "data_entrega": "2026-10-30",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1363299",
+    "competencia": "setembro/2026"
+   },
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
+  },
   "BNFS11": {
    "nome": "BANRISUL NOVAS FRONTEIRAS FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -4950,20 +5046,6 @@
    "video_url": "https://youtu.be/Pcs6K4F5mSw?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/hslg11-casas-bahia-nao-paga-setembro.html"
   },
-  "IAGR11": {
-   "nome": "SFI INVESTIMENTOS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO DE RESP LIMITADA",
-   "tipo": "FIAGRO",
-   "banner": "fiagro",
-   "fechamento": 3.8,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-10-30",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1366235",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/wPwwieSc5N4?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
-  },
   "RBHY11": {
    "nome": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESP LIMITADA",
    "tipo": "FII",
@@ -5019,25 +5101,6 @@
    },
    "analise_url": "https://www.analisandofiis.com.br/2026/10/giro-de-fiis-e-fiagros-de-30-de-outubro.html"
   },
-  "RBLG11": {
-   "nome": "RB LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "provento": {
-    "valor": 0.13,
-    "tipo": "rendimento",
-    "data_com": "2026-11-03",
-    "data_pagamento": "2026-11-10",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1367502"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387161",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/xv2NfzdTXDQ?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rblg11-r-013-por-cota-e-venda-do-ativo.html"
-  },
   "CPTS11": {
    "nome": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -5080,41 +5143,24 @@
    "video_url": "https://youtu.be/y6Tu_rIbIk8?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-12-de.html"
   },
-  "GLCR11": {
-   "nome": "GALAPAGOS HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+  "RBLG11": {
+   "nome": "RB LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 93.21,
-   "data_fechamento": "2026-11-19",
+   "banner": "imobiliario",
    "provento": {
-    "valor": 0.65,
+    "valor": 0.13,
     "tipo": "rendimento",
-    "data_com": "2026-11-16",
-    "data_pagamento": "2026-11-24",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1386984"
-   },
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
-  },
-  "GTWR11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "fechamento": 74.6,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.9,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1364979"
+    "data_com": "2026-11-03",
+    "data_pagamento": "2026-11-10",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1367502"
    },
    "relatorio": {
-    "data_entrega": "2026-11-09",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1373140",
+    "data_entrega": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387161",
     "competencia": "outubro/2026"
    },
-   "video_url": "https://youtu.be/iUIkbs_kGOs?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/gtwr11-resultado-de-r-090-por-cota-100.html"
+   "video_url": "https://youtu.be/xv2NfzdTXDQ?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/rblg11-r-013-por-cota-e-venda-do-ativo.html"
   },
   "CBOP11": {
    "nome": "CASTELLO BRANCO OFFICE PARK - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
@@ -5169,6 +5215,41 @@
    },
    "video_url": "https://youtu.be/M_bd_mWQ_8s?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/grul11-r-008-por-cota-resultado-de-75.html"
+  },
+  "KNRI11": {
+   "nome": "KINEA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 143.11,
+   "data_fechamento": "2026-11-19",
+   "provento": {
+    "valor": 1.1,
+    "tipo": "rendimento",
+    "data_com": "2026-10-30",
+    "data_pagamento": "2026-11-16",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365640"
+   },
+   "relatorio": {
+    "data_entrega": "2026-11-04",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1368920",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/mHN-xgqPSjw?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/knri11-r-110-por-cota-com-resultado-de.html"
+  },
+  "CXTL11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "fechamento": 335.0,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-11-05",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1369870",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/nKptwihC38E?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/cxtl11-sem-rendimento-e-nova-reforma-de.html"
   },
   "HBCR11": {
    "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA",
@@ -5254,7 +5335,7 @@
    "banner": "imobiliario",
    "fechamento": 79.86,
    "data_fechamento": "2026-11-19",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "BTCI11": {
    "nome": "BTG PACTUAL CRÉDITO IMOBILIÁRIO - FUNDO DE CRI - FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -5354,6 +5435,20 @@
    "video_url": "https://youtu.be/1AaVYPox8-0?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/dama11-cota-sobe-271-e-desconto-cai-de.html"
   },
+  "DAMT11": {
+   "nome": "DIAMANTE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "shopping",
+   "fechamento": 11.01,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-11-17",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387993",
+    "competencia": "setembro/2026"
+   },
+   "video_url": "https://youtu.be/J8yDDx8yjx8?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/damt11-lucro-de-r-196-milhao-e-despesas.html"
+  },
   "EGDB11": {
    "nome": "FII DE DESENVOLVIMENTO DE ESCRITÓRIOS BOUTIQUE RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -5367,48 +5462,6 @@
    },
    "video_url": "https://youtu.be/PBrQOwH-DO4?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/egdb11-predio-em-pinheiros-chega-987-da.html"
-  },
-  "FGAA11": {
-   "nome": "FG/AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROIND FIAGRO IMOBILIÁRIO RESP LIMITADA",
-   "tipo": "FIAGRO",
-   "banner": "fiagro",
-   "fechamento": 7.7,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.11,
-    "tipo": "rendimento",
-    "data_com": "2026-11-09",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1372443"
-   },
-   "relatorio": {
-    "data_entrega": "2026-10-29",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1362992",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/ZmKCHpthqfM?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/fgaa11-resultado-de-r-0164-por-cota-e.html"
-  },
-  "JSAF11": {
-   "nome": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 6.41,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 0.08,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365419"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-18",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388523",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/DLr7ulDfycQ?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-19-de.html"
   },
   "BTLG11": {
    "nome": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -5431,6 +5484,32 @@
    "video_url": "https://youtu.be/JuiJDmInbzE?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/btlg11-emissao-de-r-800-milhoes-e-venda.html"
   },
+  "CACR11": {
+   "nome": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "papel",
+   "fechamento": 8.38,
+   "data_fechamento": "2026-11-19",
+   "relatorio": {
+    "data_entrega": "2026-11-19",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1389425",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/BwCaSxNAXug?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
+  },
+  "INDE11": {
+   "nome": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "FII",
+   "banner": "imobiliario",
+   "relatorio": {
+    "data_entrega": "2026-11-19",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1389156",
+    "competencia": "outubro/2026"
+   },
+   "video_url": "https://youtu.be/7GpfqqrqOEc?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
+  },
   "KNPR11": {
    "nome": "KINEA PREMIUM PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
@@ -5449,65 +5528,6 @@
    },
    "video_url": "https://youtu.be/rxnjB7MhjoQ?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-5-de-novembro.html"
-  },
-  "CACR11": {
-   "nome": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "papel",
-   "fechamento": 8.38,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-11-19",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1389425",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/BwCaSxNAXug?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
-  },
-  "INDE11": {
-   "nome": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "relatorio": {
-    "data_entrega": "2026-11-19",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1389156",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/7GpfqqrqOEc?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
-  },
-  "KNRI11": {
-   "nome": "KINEA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 143.11,
-   "data_fechamento": "2026-11-19",
-   "provento": {
-    "valor": 1.1,
-    "tipo": "rendimento",
-    "data_com": "2026-10-30",
-    "data_pagamento": "2026-11-16",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1365640"
-   },
-   "relatorio": {
-    "data_entrega": "2026-11-04",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1368920",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/mHN-xgqPSjw?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/knri11-r-110-por-cota-com-resultado-de.html"
-  },
-  "TRCO11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TORRE RIO CLARO OFFICES - RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "lajes",
-   "relatorio": {
-    "data_entrega": "2026-11-19",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388906",
-    "competencia": "outubro/2026"
-   },
-   "video_url": "https://youtu.be/K0PRV2CYyig?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
   },
   "ARTE11": {
    "nome": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -5528,7 +5548,7 @@
     "competencia": "outubro/2026"
    },
    "video_url": "https://youtu.be/7EOCMa3T9SI?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html"
   },
   "CCME11": {
    "nome": "CANUMA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -5572,19 +5592,17 @@
    "video_url": "https://youtu.be/7cIfpGRrgVs?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-9-de-novembro.html"
   },
-  "RBTS11": {
-   "nome": "RB TFO SITUS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+  "TRCO11": {
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TORRE RIO CLARO OFFICES - RESPONSABILIDADE LIMITADA",
    "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 178.03,
-   "data_fechamento": "2026-11-19",
+   "banner": "lajes",
    "relatorio": {
-    "data_entrega": "2026-11-17",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387413",
-    "competencia": "setembro/2026"
+    "data_entrega": "2026-11-19",
+    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1388906",
+    "competencia": "outubro/2026"
    },
-   "video_url": "https://youtu.be/Iy8PaoA4D10?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/rbts11-707-de-750-unidades-vendidas-e.html"
+   "video_url": "https://youtu.be/K0PRV2CYyig?sub_confirmation=1",
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-20-de.html"
   },
   "BBIG11": {
    "nome": "BB PREMIUM MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -5723,7 +5741,7 @@
     "competencia": "setembro/2026"
    },
    "video_url": "https://youtu.be/X_ifjPd78MU?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/10/cxco11-r-075-por-cota-venda-de-cascavel.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/cxco11-100-locado-caixa-r-075-por-cota.html"
   },
   "DEVA11": {
    "nome": "DEVANT RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -5766,20 +5784,6 @@
    },
    "video_url": "https://youtu.be/dpLEwtpR9ow?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-2-de-novembro.html"
-  },
-  "DAMT11": {
-   "nome": "DIAMANTE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "shopping",
-   "fechamento": 11.01,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-11-17",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1387993",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/J8yDDx8yjx8?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/damt11-lucro-de-r-196-milhao-e-despesas.html"
   },
   "ARXD11": {
    "nome": "ARX DOVER RECEBÍVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -5843,20 +5847,6 @@
    },
    "video_url": "https://youtu.be/9P6eNoDlyRc?sub_confirmation=1",
    "analise_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-17-de.html"
-  },
-  "CXTL11": {
-   "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA RESPONSABILIDADE LIMITADA",
-   "tipo": "FII",
-   "banner": "imobiliario",
-   "fechamento": 335.0,
-   "data_fechamento": "2026-11-19",
-   "relatorio": {
-    "data_entrega": "2026-11-05",
-    "documento_url": "https://fnet.bmfbovespa.com.br/fnet/publico/downloadDocumento?id=1369870",
-    "competencia": "setembro/2026"
-   },
-   "video_url": "https://youtu.be/nKptwihC38E?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/cxtl11-sem-rendimento-e-nova-reforma-de.html"
   },
   "AAGR11": {
    "nome": "ASSET BANK AGRONEGÓCIOS FIAGRO - DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
@@ -6075,7 +6065,7 @@
     "competencia": "outubro/2026"
    },
    "video_url": "https://youtu.be/nSQt2D0g78E?sub_confirmation=1",
-   "analise_url": "https://www.analisandofiis.com.br/2026/11/arri11-r-005-por-cota-cri-raposo.html"
+   "analise_url": "https://www.analisandofiis.com.br/2026/11/arri11-r-005-por-cota-e-cota-49-do.html"
   },
   "ATSA11": {
    "nome": "HEDGE ATRIUM SHOPPING SANTO ANDRÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
@@ -6506,7 +6496,7 @@
    "analise_url": "https://www.analisandofiis.com.br/2026/11/zavi11-r-012-por-cota-com-lucro-de-r.html"
   }
  },
- "giro_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-21-de.html",
+ "giro_url": "https://www.analisandofiis.com.br/2026/11/giro-de-fiis-e-fiagros-de-22-de.html",
  "banners_url": "https://dgncanaisdigitais-analisando-fiis.github.io/painel-analisando-fiis/banners",
  "fontes": {
   "proventos": "FNET (B3/CVM)",
